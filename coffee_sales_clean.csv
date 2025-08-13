@@ -1,0 +1,2185 @@
+Date,Location,Product,Units_Sold,Unit_Price,Revenue
+2024-01-01,Tbilisi,Espresso,12,3.0,36.0
+2024-01-01,Tbilisi,Latte,6,4.0,24.0
+2024-01-01,Tbilisi,Cappuccino,11,4.0,44.0
+2024-01-01,Tbilisi,Americano,14,4.0,56.0
+2024-01-01,Tbilisi,Mocha,7,3.5,24.5
+2024-01-01,Tbilisi,Cold Brew,8,2.5,20.0
+2024-01-01,Batumi,Espresso,9,4.0,36.0
+2024-01-01,Batumi,Latte,11,3.5,38.5
+2024-01-01,Batumi,Cappuccino,8,3.0,24.0
+2024-01-01,Batumi,Americano,10,2.5,25.0
+2024-01-01,Batumi,Mocha,7,4.0,28.0
+2024-01-01,Batumi,Cold Brew,11,3.5,38.5
+2024-01-01,Kutaisi,Espresso,11,4.0,44.0
+2024-01-01,Kutaisi,Latte,8,4.0,32.0
+2024-01-01,Kutaisi,Cappuccino,12,3.5,42.0
+2024-01-01,Kutaisi,Americano,6,4.0,24.0
+2024-01-01,Kutaisi,Mocha,7,4.0,28.0
+2024-01-01,Kutaisi,Cold Brew,8,2.5,20.0
+2024-01-01,Rustavi,Espresso,10,3.5,35.0
+2024-01-01,Rustavi,Latte,5,3.5,17.5
+2024-01-01,Rustavi,Cappuccino,3,3.0,9.0
+2024-01-01,Rustavi,Americano,9,3.5,31.5
+2024-01-01,Rustavi,Mocha,13,3.0,39.0
+2024-01-01,Rustavi,Cold Brew,8,4.0,32.0
+2024-01-02,Tbilisi,Espresso,6,4.0,24.0
+2024-01-02,Tbilisi,Latte,13,3.0,39.0
+2024-01-02,Tbilisi,Cappuccino,12,3.0,36.0
+2024-01-02,Tbilisi,Americano,13,4.0,52.0
+2024-01-02,Tbilisi,Mocha,9,3.5,31.5
+2024-01-02,Tbilisi,Cold Brew,14,2.5,35.0
+2024-01-02,Batumi,Espresso,8,3.5,28.0
+2024-01-02,Batumi,Latte,8,4.0,32.0
+2024-01-02,Batumi,Cappuccino,12,4.0,48.0
+2024-01-02,Batumi,Americano,15,2.5,37.5
+2024-01-02,Batumi,Mocha,13,3.5,45.5
+2024-01-02,Batumi,Cold Brew,13,4.0,52.0
+2024-01-02,Kutaisi,Espresso,10,4.0,40.0
+2024-01-02,Kutaisi,Latte,8,3.0,24.0
+2024-01-02,Kutaisi,Cappuccino,15,3.5,52.5
+2024-01-02,Kutaisi,Americano,9,4.0,36.0
+2024-01-02,Kutaisi,Mocha,7,2.5,17.5
+2024-01-02,Kutaisi,Cold Brew,8,3.0,24.0
+2024-01-02,Rustavi,Espresso,13,3.5,45.5
+2024-01-02,Rustavi,Latte,15,4.0,60.0
+2024-01-02,Rustavi,Cappuccino,8,3.0,24.0
+2024-01-02,Rustavi,Americano,7,3.0,21.0
+2024-01-02,Rustavi,Mocha,9,3.5,31.5
+2024-01-02,Rustavi,Cold Brew,6,2.5,15.0
+2024-01-03,Tbilisi,Espresso,16,3.0,48.0
+2024-01-03,Tbilisi,Latte,10,2.5,25.0
+2024-01-03,Tbilisi,Cappuccino,18,3.5,63.0
+2024-01-03,Tbilisi,Americano,10,4.0,40.0
+2024-01-03,Tbilisi,Mocha,8,3.0,24.0
+2024-01-03,Tbilisi,Cold Brew,11,2.5,27.5
+2024-01-03,Batumi,Espresso,3,4.0,12.0
+2024-01-03,Batumi,Latte,15,3.5,52.5
+2024-01-03,Batumi,Cappuccino,6,4.0,24.0
+2024-01-03,Batumi,Americano,7,4.0,28.0
+2024-01-03,Batumi,Mocha,9,2.5,22.5
+2024-01-03,Batumi,Cold Brew,11,3.5,38.5
+2024-01-03,Kutaisi,Espresso,8,2.5,20.0
+2024-01-03,Kutaisi,Latte,12,3.5,42.0
+2024-01-03,Kutaisi,Cappuccino,10,3.5,35.0
+2024-01-03,Kutaisi,Americano,11,3.5,38.5
+2024-01-03,Kutaisi,Mocha,12,4.0,48.0
+2024-01-03,Kutaisi,Cold Brew,16,2.5,40.0
+2024-01-03,Rustavi,Espresso,8,4.0,32.0
+2024-01-03,Rustavi,Latte,7,3.5,24.5
+2024-01-03,Rustavi,Cappuccino,13,2.5,32.5
+2024-01-03,Rustavi,Americano,10,3.5,35.0
+2024-01-03,Rustavi,Mocha,15,3.0,45.0
+2024-01-03,Rustavi,Cold Brew,8,4.0,32.0
+2024-01-04,Tbilisi,Espresso,11,2.5,27.5
+2024-01-04,Tbilisi,Latte,11,3.5,38.5
+2024-01-04,Tbilisi,Cappuccino,5,3.5,17.5
+2024-01-04,Tbilisi,Americano,10,3.0,30.0
+2024-01-04,Tbilisi,Mocha,11,3.0,33.0
+2024-01-04,Tbilisi,Cold Brew,12,3.5,42.0
+2024-01-04,Batumi,Espresso,8,3.5,28.0
+2024-01-04,Batumi,Latte,11,3.0,33.0
+2024-01-04,Batumi,Cappuccino,11,4.0,44.0
+2024-01-04,Batumi,Americano,5,3.0,15.0
+2024-01-04,Batumi,Mocha,8,2.5,20.0
+2024-01-04,Batumi,Cold Brew,13,3.0,39.0
+2024-01-04,Kutaisi,Espresso,11,3.5,38.5
+2024-01-04,Kutaisi,Latte,7,3.5,24.5
+2024-01-04,Kutaisi,Cappuccino,8,3.0,24.0
+2024-01-04,Kutaisi,Americano,11,3.5,38.5
+2024-01-04,Kutaisi,Mocha,15,3.5,52.5
+2024-01-04,Kutaisi,Cold Brew,8,4.0,32.0
+2024-01-04,Rustavi,Espresso,14,3.0,42.0
+2024-01-04,Rustavi,Latte,6,4.0,24.0
+2024-01-04,Rustavi,Cappuccino,16,4.0,64.0
+2024-01-04,Rustavi,Americano,11,3.5,38.5
+2024-01-04,Rustavi,Mocha,6,4.0,24.0
+2024-01-04,Rustavi,Cold Brew,14,4.0,56.0
+2024-01-05,Tbilisi,Espresso,12,4.0,48.0
+2024-01-05,Tbilisi,Latte,9,4.0,36.0
+2024-01-05,Tbilisi,Cappuccino,10,4.0,40.0
+2024-01-05,Tbilisi,Americano,13,3.5,45.5
+2024-01-05,Tbilisi,Mocha,15,3.5,52.5
+2024-01-05,Tbilisi,Cold Brew,9,2.5,22.5
+2024-01-05,Batumi,Espresso,11,4.0,44.0
+2024-01-05,Batumi,Latte,10,3.0,30.0
+2024-01-05,Batumi,Cappuccino,8,2.5,20.0
+2024-01-05,Batumi,Americano,1,4.0,4.0
+2024-01-05,Batumi,Mocha,13,3.5,45.5
+2024-01-05,Batumi,Cold Brew,6,4.0,24.0
+2024-01-05,Kutaisi,Espresso,13,2.5,32.5
+2024-01-05,Kutaisi,Latte,11,2.5,27.5
+2024-01-05,Kutaisi,Cappuccino,10,2.5,25.0
+2024-01-05,Kutaisi,Americano,10,3.5,35.0
+2024-01-05,Kutaisi,Mocha,13,3.5,45.5
+2024-01-05,Kutaisi,Cold Brew,9,3.0,27.0
+2024-01-05,Rustavi,Espresso,9,3.5,31.5
+2024-01-05,Rustavi,Latte,6,4.0,24.0
+2024-01-05,Rustavi,Cappuccino,10,3.5,35.0
+2024-01-05,Rustavi,Americano,12,2.5,30.0
+2024-01-05,Rustavi,Mocha,17,3.0,51.0
+2024-01-05,Rustavi,Cold Brew,10,4.0,40.0
+2024-01-06,Tbilisi,Espresso,9,2.5,22.5
+2024-01-06,Tbilisi,Latte,9,4.0,36.0
+2024-01-06,Tbilisi,Cappuccino,3,3.0,9.0
+2024-01-06,Tbilisi,Americano,10,3.5,35.0
+2024-01-06,Tbilisi,Mocha,10,3.5,35.0
+2024-01-06,Tbilisi,Cold Brew,6,3.5,21.0
+2024-01-06,Batumi,Espresso,9,2.5,22.5
+2024-01-06,Batumi,Latte,11,2.5,27.5
+2024-01-06,Batumi,Cappuccino,9,4.0,36.0
+2024-01-06,Batumi,Americano,10,2.5,25.0
+2024-01-06,Batumi,Mocha,11,4.0,44.0
+2024-01-06,Batumi,Cold Brew,16,2.5,40.0
+2024-01-06,Kutaisi,Espresso,9,3.0,27.0
+2024-01-06,Kutaisi,Latte,10,3.5,35.0
+2024-01-06,Kutaisi,Cappuccino,16,2.5,40.0
+2024-01-06,Kutaisi,Americano,7,3.0,21.0
+2024-01-06,Kutaisi,Mocha,5,4.0,20.0
+2024-01-06,Kutaisi,Cold Brew,5,4.0,20.0
+2024-01-06,Rustavi,Espresso,4,4.0,16.0
+2024-01-06,Rustavi,Latte,14,3.0,42.0
+2024-01-06,Rustavi,Cappuccino,13,3.0,39.0
+2024-01-06,Rustavi,Americano,8,3.0,24.0
+2024-01-06,Rustavi,Mocha,12,3.0,36.0
+2024-01-06,Rustavi,Cold Brew,9,4.0,36.0
+2024-01-07,Tbilisi,Espresso,14,4.0,56.0
+2024-01-07,Tbilisi,Latte,12,3.0,36.0
+2024-01-07,Tbilisi,Cappuccino,10,2.5,25.0
+2024-01-07,Tbilisi,Americano,9,4.0,36.0
+2024-01-07,Tbilisi,Mocha,15,3.5,52.5
+2024-01-07,Tbilisi,Cold Brew,17,3.5,59.5
+2024-01-07,Batumi,Espresso,11,3.5,38.5
+2024-01-07,Batumi,Latte,8,4.0,32.0
+2024-01-07,Batumi,Cappuccino,5,4.0,20.0
+2024-01-07,Batumi,Americano,9,4.0,36.0
+2024-01-07,Batumi,Mocha,8,4.0,32.0
+2024-01-07,Batumi,Cold Brew,6,4.0,24.0
+2024-01-07,Kutaisi,Espresso,11,4.0,44.0
+2024-01-07,Kutaisi,Latte,5,3.0,15.0
+2024-01-07,Kutaisi,Cappuccino,12,3.5,42.0
+2024-01-07,Kutaisi,Americano,9,4.0,36.0
+2024-01-07,Kutaisi,Mocha,9,3.5,31.5
+2024-01-07,Kutaisi,Cold Brew,13,3.5,45.5
+2024-01-07,Rustavi,Espresso,9,2.5,22.5
+2024-01-07,Rustavi,Latte,5,3.5,17.5
+2024-01-07,Rustavi,Cappuccino,3,3.0,9.0
+2024-01-07,Rustavi,Americano,12,3.5,42.0
+2024-01-07,Rustavi,Mocha,18,4.0,72.0
+2024-01-07,Rustavi,Cold Brew,8,3.0,24.0
+2024-01-08,Tbilisi,Espresso,11,4.0,44.0
+2024-01-08,Tbilisi,Latte,9,3.5,31.5
+2024-01-08,Tbilisi,Cappuccino,3,3.5,10.5
+2024-01-08,Tbilisi,Americano,10,2.5,25.0
+2024-01-08,Tbilisi,Mocha,8,2.5,20.0
+2024-01-08,Tbilisi,Cold Brew,10,3.5,35.0
+2024-01-08,Batumi,Espresso,11,3.5,38.5
+2024-01-08,Batumi,Latte,12,2.5,30.0
+2024-01-08,Batumi,Cappuccino,8,3.0,24.0
+2024-01-08,Batumi,Americano,12,3.0,36.0
+2024-01-08,Batumi,Mocha,11,3.0,33.0
+2024-01-08,Batumi,Cold Brew,3,4.0,12.0
+2024-01-08,Kutaisi,Espresso,9,3.0,27.0
+2024-01-08,Kutaisi,Latte,11,2.5,27.5
+2024-01-08,Kutaisi,Cappuccino,14,2.5,35.0
+2024-01-08,Kutaisi,Americano,9,4.0,36.0
+2024-01-08,Kutaisi,Mocha,14,4.0,56.0
+2024-01-08,Kutaisi,Cold Brew,9,3.0,27.0
+2024-01-08,Rustavi,Espresso,17,2.5,42.5
+2024-01-08,Rustavi,Latte,7,4.0,28.0
+2024-01-08,Rustavi,Cappuccino,11,4.0,44.0
+2024-01-08,Rustavi,Americano,10,3.0,30.0
+2024-01-08,Rustavi,Mocha,10,4.0,40.0
+2024-01-08,Rustavi,Cold Brew,10,2.5,25.0
+2024-01-09,Tbilisi,Espresso,14,2.5,35.0
+2024-01-09,Tbilisi,Latte,6,4.0,24.0
+2024-01-09,Tbilisi,Cappuccino,13,3.5,45.5
+2024-01-09,Tbilisi,Americano,12,2.5,30.0
+2024-01-09,Tbilisi,Mocha,6,3.0,18.0
+2024-01-09,Tbilisi,Cold Brew,8,4.0,32.0
+2024-01-09,Batumi,Espresso,9,4.0,36.0
+2024-01-09,Batumi,Latte,15,3.5,52.5
+2024-01-09,Batumi,Cappuccino,10,4.0,40.0
+2024-01-09,Batumi,Americano,9,3.0,27.0
+2024-01-09,Batumi,Mocha,10,3.0,30.0
+2024-01-09,Batumi,Cold Brew,10,2.5,25.0
+2024-01-09,Kutaisi,Espresso,11,3.5,38.5
+2024-01-09,Kutaisi,Latte,4,4.0,16.0
+2024-01-09,Kutaisi,Cappuccino,6,4.0,24.0
+2024-01-09,Kutaisi,Americano,6,3.5,21.0
+2024-01-09,Kutaisi,Mocha,7,3.0,21.0
+2024-01-09,Kutaisi,Cold Brew,15,2.5,37.5
+2024-01-09,Rustavi,Espresso,12,4.0,48.0
+2024-01-09,Rustavi,Latte,7,4.0,28.0
+2024-01-09,Rustavi,Cappuccino,6,3.5,21.0
+2024-01-09,Rustavi,Americano,6,3.0,18.0
+2024-01-09,Rustavi,Mocha,6,2.5,15.0
+2024-01-09,Rustavi,Cold Brew,7,3.5,24.5
+2024-01-10,Tbilisi,Espresso,10,3.0,30.0
+2024-01-10,Tbilisi,Latte,11,4.0,44.0
+2024-01-10,Tbilisi,Cappuccino,4,3.5,14.0
+2024-01-10,Tbilisi,Americano,7,3.0,21.0
+2024-01-10,Tbilisi,Mocha,9,3.5,31.5
+2024-01-10,Tbilisi,Cold Brew,11,4.0,44.0
+2024-01-10,Batumi,Espresso,10,2.5,25.0
+2024-01-10,Batumi,Latte,10,4.0,40.0
+2024-01-10,Batumi,Cappuccino,5,3.5,17.5
+2024-01-10,Batumi,Americano,10,3.5,35.0
+2024-01-10,Batumi,Mocha,8,4.0,32.0
+2024-01-10,Batumi,Cold Brew,7,4.0,28.0
+2024-01-10,Kutaisi,Espresso,6,3.0,18.0
+2024-01-10,Kutaisi,Latte,11,3.5,38.5
+2024-01-10,Kutaisi,Cappuccino,13,3.0,39.0
+2024-01-10,Kutaisi,Americano,5,4.0,20.0
+2024-01-10,Kutaisi,Mocha,11,4.0,44.0
+2024-01-10,Kutaisi,Cold Brew,9,4.0,36.0
+2024-01-10,Rustavi,Espresso,8,4.0,32.0
+2024-01-10,Rustavi,Latte,11,3.0,33.0
+2024-01-10,Rustavi,Cappuccino,11,3.5,38.5
+2024-01-10,Rustavi,Americano,5,2.5,12.5
+2024-01-10,Rustavi,Mocha,7,4.0,28.0
+2024-01-10,Rustavi,Cold Brew,7,3.0,21.0
+2024-01-11,Tbilisi,Espresso,5,3.5,17.5
+2024-01-11,Tbilisi,Latte,13,3.0,39.0
+2024-01-11,Tbilisi,Cappuccino,6,3.0,18.0
+2024-01-11,Tbilisi,Americano,16,4.0,64.0
+2024-01-11,Tbilisi,Mocha,11,4.0,44.0
+2024-01-11,Tbilisi,Cold Brew,13,2.5,32.5
+2024-01-11,Batumi,Espresso,8,3.5,28.0
+2024-01-11,Batumi,Latte,10,2.5,25.0
+2024-01-11,Batumi,Cappuccino,8,2.5,20.0
+2024-01-11,Batumi,Americano,6,3.5,21.0
+2024-01-11,Batumi,Mocha,10,2.5,25.0
+2024-01-11,Batumi,Cold Brew,8,4.0,32.0
+2024-01-11,Kutaisi,Espresso,8,3.5,28.0
+2024-01-11,Kutaisi,Latte,7,3.5,24.5
+2024-01-11,Kutaisi,Cappuccino,13,4.0,52.0
+2024-01-11,Kutaisi,Americano,10,3.5,35.0
+2024-01-11,Kutaisi,Mocha,6,2.5,15.0
+2024-01-11,Kutaisi,Cold Brew,16,2.5,40.0
+2024-01-11,Rustavi,Espresso,6,3.0,18.0
+2024-01-11,Rustavi,Latte,7,2.5,17.5
+2024-01-11,Rustavi,Cappuccino,12,2.5,30.0
+2024-01-11,Rustavi,Americano,9,2.5,22.5
+2024-01-11,Rustavi,Mocha,9,3.5,31.5
+2024-01-11,Rustavi,Cold Brew,9,2.5,22.5
+2024-01-12,Tbilisi,Espresso,10,2.5,25.0
+2024-01-12,Tbilisi,Latte,12,3.5,42.0
+2024-01-12,Tbilisi,Cappuccino,9,3.5,31.5
+2024-01-12,Tbilisi,Americano,15,3.5,52.5
+2024-01-12,Tbilisi,Mocha,11,3.0,33.0
+2024-01-12,Tbilisi,Cold Brew,6,3.0,18.0
+2024-01-12,Batumi,Espresso,11,4.0,44.0
+2024-01-12,Batumi,Latte,6,3.0,18.0
+2024-01-12,Batumi,Cappuccino,7,3.5,24.5
+2024-01-12,Batumi,Americano,8,2.5,20.0
+2024-01-12,Batumi,Mocha,6,3.5,21.0
+2024-01-12,Batumi,Cold Brew,13,2.5,32.5
+2024-01-12,Kutaisi,Espresso,7,2.5,17.5
+2024-01-12,Kutaisi,Latte,12,4.0,48.0
+2024-01-12,Kutaisi,Cappuccino,12,2.5,30.0
+2024-01-12,Kutaisi,Americano,7,3.5,24.5
+2024-01-12,Kutaisi,Mocha,7,2.5,17.5
+2024-01-12,Kutaisi,Cold Brew,11,2.5,27.5
+2024-01-12,Rustavi,Espresso,6,3.5,21.0
+2024-01-12,Rustavi,Latte,10,3.5,35.0
+2024-01-12,Rustavi,Cappuccino,16,3.0,48.0
+2024-01-12,Rustavi,Americano,12,4.0,48.0
+2024-01-12,Rustavi,Mocha,11,3.0,33.0
+2024-01-12,Rustavi,Cold Brew,9,4.0,36.0
+2024-01-13,Tbilisi,Espresso,9,4.0,36.0
+2024-01-13,Tbilisi,Latte,6,3.5,21.0
+2024-01-13,Tbilisi,Cappuccino,14,3.5,49.0
+2024-01-13,Tbilisi,Americano,11,4.0,44.0
+2024-01-13,Tbilisi,Mocha,3,3.0,9.0
+2024-01-13,Tbilisi,Cold Brew,13,4.0,52.0
+2024-01-13,Batumi,Espresso,8,2.5,20.0
+2024-01-13,Batumi,Latte,8,3.0,24.0
+2024-01-13,Batumi,Cappuccino,12,4.0,48.0
+2024-01-13,Batumi,Americano,7,3.0,21.0
+2024-01-13,Batumi,Mocha,6,3.0,18.0
+2024-01-13,Batumi,Cold Brew,10,3.0,30.0
+2024-01-13,Kutaisi,Espresso,15,2.5,37.5
+2024-01-13,Kutaisi,Latte,11,3.5,38.5
+2024-01-13,Kutaisi,Cappuccino,6,2.5,15.0
+2024-01-13,Kutaisi,Americano,10,3.5,35.0
+2024-01-13,Kutaisi,Mocha,7,3.5,24.5
+2024-01-13,Kutaisi,Cold Brew,11,3.0,33.0
+2024-01-13,Rustavi,Espresso,13,4.0,52.0
+2024-01-13,Rustavi,Latte,10,3.5,35.0
+2024-01-13,Rustavi,Cappuccino,9,3.0,27.0
+2024-01-13,Rustavi,Americano,6,3.5,21.0
+2024-01-13,Rustavi,Mocha,9,3.0,27.0
+2024-01-13,Rustavi,Cold Brew,11,3.5,38.5
+2024-01-14,Tbilisi,Espresso,12,3.0,36.0
+2024-01-14,Tbilisi,Latte,7,2.5,17.5
+2024-01-14,Tbilisi,Cappuccino,13,4.0,52.0
+2024-01-14,Tbilisi,Americano,11,3.5,38.5
+2024-01-14,Tbilisi,Mocha,5,3.0,15.0
+2024-01-14,Tbilisi,Cold Brew,14,3.5,49.0
+2024-01-14,Batumi,Espresso,12,3.0,36.0
+2024-01-14,Batumi,Latte,8,2.5,20.0
+2024-01-14,Batumi,Cappuccino,7,4.0,28.0
+2024-01-14,Batumi,Americano,7,4.0,28.0
+2024-01-14,Batumi,Mocha,9,4.0,36.0
+2024-01-14,Batumi,Cold Brew,13,3.5,45.5
+2024-01-14,Kutaisi,Espresso,7,3.0,21.0
+2024-01-14,Kutaisi,Latte,11,4.0,44.0
+2024-01-14,Kutaisi,Cappuccino,11,4.0,44.0
+2024-01-14,Kutaisi,Americano,10,3.0,30.0
+2024-01-14,Kutaisi,Mocha,13,3.5,45.5
+2024-01-14,Kutaisi,Cold Brew,14,3.0,42.0
+2024-01-14,Rustavi,Espresso,9,4.0,36.0
+2024-01-14,Rustavi,Latte,8,3.0,24.0
+2024-01-14,Rustavi,Cappuccino,11,3.0,33.0
+2024-01-14,Rustavi,Americano,6,4.0,24.0
+2024-01-14,Rustavi,Mocha,5,3.0,15.0
+2024-01-14,Rustavi,Cold Brew,8,3.5,28.0
+2024-01-15,Tbilisi,Espresso,11,3.5,38.5
+2024-01-15,Tbilisi,Latte,7,2.5,17.5
+2024-01-15,Tbilisi,Cappuccino,14,3.5,49.0
+2024-01-15,Tbilisi,Americano,11,2.5,27.5
+2024-01-15,Tbilisi,Mocha,9,2.5,22.5
+2024-01-15,Tbilisi,Cold Brew,10,3.0,30.0
+2024-01-15,Batumi,Espresso,5,4.0,20.0
+2024-01-15,Batumi,Latte,7,4.0,28.0
+2024-01-15,Batumi,Cappuccino,8,3.0,24.0
+2024-01-15,Batumi,Americano,12,3.0,36.0
+2024-01-15,Batumi,Mocha,11,3.5,38.5
+2024-01-15,Batumi,Cold Brew,12,2.5,30.0
+2024-01-15,Kutaisi,Espresso,11,3.5,38.5
+2024-01-15,Kutaisi,Latte,10,3.5,35.0
+2024-01-15,Kutaisi,Cappuccino,8,4.0,32.0
+2024-01-15,Kutaisi,Americano,5,3.5,17.5
+2024-01-15,Kutaisi,Mocha,12,2.5,30.0
+2024-01-15,Kutaisi,Cold Brew,12,3.0,36.0
+2024-01-15,Rustavi,Espresso,13,3.0,39.0
+2024-01-15,Rustavi,Latte,8,3.5,28.0
+2024-01-15,Rustavi,Cappuccino,9,3.0,27.0
+2024-01-15,Rustavi,Americano,15,2.5,37.5
+2024-01-15,Rustavi,Mocha,17,2.5,42.5
+2024-01-15,Rustavi,Cold Brew,7,2.5,17.5
+2024-01-16,Tbilisi,Espresso,14,3.5,49.0
+2024-01-16,Tbilisi,Latte,13,3.5,45.5
+2024-01-16,Tbilisi,Cappuccino,7,3.5,24.5
+2024-01-16,Tbilisi,Americano,16,2.5,40.0
+2024-01-16,Tbilisi,Mocha,7,2.5,17.5
+2024-01-16,Tbilisi,Cold Brew,15,2.5,37.5
+2024-01-16,Batumi,Espresso,12,2.5,30.0
+2024-01-16,Batumi,Latte,16,3.5,56.0
+2024-01-16,Batumi,Cappuccino,8,3.5,28.0
+2024-01-16,Batumi,Americano,7,3.5,24.5
+2024-01-16,Batumi,Mocha,8,3.5,28.0
+2024-01-16,Batumi,Cold Brew,4,3.0,12.0
+2024-01-16,Kutaisi,Espresso,10,2.5,25.0
+2024-01-16,Kutaisi,Latte,8,3.5,28.0
+2024-01-16,Kutaisi,Cappuccino,14,2.5,35.0
+2024-01-16,Kutaisi,Americano,7,3.0,21.0
+2024-01-16,Kutaisi,Mocha,14,3.5,49.0
+2024-01-16,Kutaisi,Cold Brew,14,3.0,42.0
+2024-01-16,Rustavi,Espresso,16,4.0,64.0
+2024-01-16,Rustavi,Latte,13,2.5,32.5
+2024-01-16,Rustavi,Cappuccino,10,3.5,35.0
+2024-01-16,Rustavi,Americano,13,4.0,52.0
+2024-01-16,Rustavi,Mocha,9,4.0,36.0
+2024-01-16,Rustavi,Cold Brew,7,2.5,17.5
+2024-01-17,Tbilisi,Espresso,8,3.5,28.0
+2024-01-17,Tbilisi,Latte,8,3.0,24.0
+2024-01-17,Tbilisi,Cappuccino,2,2.5,5.0
+2024-01-17,Tbilisi,Americano,9,3.0,27.0
+2024-01-17,Tbilisi,Mocha,13,2.5,32.5
+2024-01-17,Tbilisi,Cold Brew,9,2.5,22.5
+2024-01-17,Batumi,Espresso,17,4.0,68.0
+2024-01-17,Batumi,Latte,11,3.0,33.0
+2024-01-17,Batumi,Cappuccino,16,2.5,40.0
+2024-01-17,Batumi,Americano,11,3.0,33.0
+2024-01-17,Batumi,Mocha,7,2.5,17.5
+2024-01-17,Batumi,Cold Brew,7,3.5,24.5
+2024-01-17,Kutaisi,Espresso,13,2.5,32.5
+2024-01-17,Kutaisi,Latte,9,3.0,27.0
+2024-01-17,Kutaisi,Cappuccino,12,4.0,48.0
+2024-01-17,Kutaisi,Americano,13,2.5,32.5
+2024-01-17,Kutaisi,Mocha,7,4.0,28.0
+2024-01-17,Kutaisi,Cold Brew,11,2.5,27.5
+2024-01-17,Rustavi,Espresso,8,4.0,32.0
+2024-01-17,Rustavi,Latte,11,4.0,44.0
+2024-01-17,Rustavi,Cappuccino,5,3.0,15.0
+2024-01-17,Rustavi,Americano,9,4.0,36.0
+2024-01-17,Rustavi,Mocha,12,3.0,36.0
+2024-01-17,Rustavi,Cold Brew,5,3.5,17.5
+2024-01-18,Tbilisi,Espresso,12,3.5,42.0
+2024-01-18,Tbilisi,Latte,14,3.0,42.0
+2024-01-18,Tbilisi,Cappuccino,10,4.0,40.0
+2024-01-18,Tbilisi,Americano,13,3.5,45.5
+2024-01-18,Tbilisi,Mocha,12,4.0,48.0
+2024-01-18,Tbilisi,Cold Brew,8,3.5,28.0
+2024-01-18,Batumi,Espresso,13,3.0,39.0
+2024-01-18,Batumi,Latte,12,4.0,48.0
+2024-01-18,Batumi,Cappuccino,11,4.0,44.0
+2024-01-18,Batumi,Americano,14,4.0,56.0
+2024-01-18,Batumi,Mocha,13,3.0,39.0
+2024-01-18,Batumi,Cold Brew,8,2.5,20.0
+2024-01-18,Kutaisi,Espresso,14,3.0,42.0
+2024-01-18,Kutaisi,Latte,11,3.0,33.0
+2024-01-18,Kutaisi,Cappuccino,11,4.0,44.0
+2024-01-18,Kutaisi,Americano,13,2.5,32.5
+2024-01-18,Kutaisi,Mocha,13,2.5,32.5
+2024-01-18,Kutaisi,Cold Brew,18,3.5,63.0
+2024-01-18,Rustavi,Espresso,12,2.5,30.0
+2024-01-18,Rustavi,Latte,8,3.5,28.0
+2024-01-18,Rustavi,Cappuccino,4,3.5,14.0
+2024-01-18,Rustavi,Americano,8,4.0,32.0
+2024-01-18,Rustavi,Mocha,12,2.5,30.0
+2024-01-18,Rustavi,Cold Brew,13,3.5,45.5
+2024-01-19,Tbilisi,Espresso,10,3.5,35.0
+2024-01-19,Tbilisi,Latte,12,3.0,36.0
+2024-01-19,Tbilisi,Cappuccino,9,3.5,31.5
+2024-01-19,Tbilisi,Americano,12,4.0,48.0
+2024-01-19,Tbilisi,Mocha,5,3.5,17.5
+2024-01-19,Tbilisi,Cold Brew,11,2.5,27.5
+2024-01-19,Batumi,Espresso,17,2.5,42.5
+2024-01-19,Batumi,Latte,9,3.5,31.5
+2024-01-19,Batumi,Cappuccino,9,3.0,27.0
+2024-01-19,Batumi,Americano,15,3.5,52.5
+2024-01-19,Batumi,Mocha,7,4.0,28.0
+2024-01-19,Batumi,Cold Brew,11,2.5,27.5
+2024-01-19,Kutaisi,Espresso,14,3.0,42.0
+2024-01-19,Kutaisi,Latte,19,3.5,66.5
+2024-01-19,Kutaisi,Cappuccino,13,3.5,45.5
+2024-01-19,Kutaisi,Americano,6,4.0,24.0
+2024-01-19,Kutaisi,Mocha,15,3.5,52.5
+2024-01-19,Kutaisi,Cold Brew,13,3.5,45.5
+2024-01-19,Rustavi,Espresso,5,3.0,15.0
+2024-01-19,Rustavi,Latte,12,4.0,48.0
+2024-01-19,Rustavi,Cappuccino,7,3.5,24.5
+2024-01-19,Rustavi,Americano,4,3.5,14.0
+2024-01-19,Rustavi,Mocha,8,4.0,32.0
+2024-01-19,Rustavi,Cold Brew,8,3.5,28.0
+2024-01-20,Tbilisi,Espresso,9,4.0,36.0
+2024-01-20,Tbilisi,Latte,11,3.0,33.0
+2024-01-20,Tbilisi,Cappuccino,13,2.5,32.5
+2024-01-20,Tbilisi,Americano,10,2.5,25.0
+2024-01-20,Tbilisi,Mocha,6,3.0,18.0
+2024-01-20,Tbilisi,Cold Brew,11,3.0,33.0
+2024-01-20,Batumi,Espresso,11,2.5,27.5
+2024-01-20,Batumi,Latte,8,4.0,32.0
+2024-01-20,Batumi,Cappuccino,5,4.0,20.0
+2024-01-20,Batumi,Americano,9,3.0,27.0
+2024-01-20,Batumi,Mocha,11,4.0,44.0
+2024-01-20,Batumi,Cold Brew,13,2.5,32.5
+2024-01-20,Kutaisi,Espresso,6,2.5,15.0
+2024-01-20,Kutaisi,Latte,11,4.0,44.0
+2024-01-20,Kutaisi,Cappuccino,8,3.5,28.0
+2024-01-20,Kutaisi,Americano,10,3.5,35.0
+2024-01-20,Kutaisi,Mocha,9,4.0,36.0
+2024-01-20,Kutaisi,Cold Brew,10,3.5,35.0
+2024-01-20,Rustavi,Espresso,5,3.5,17.5
+2024-01-20,Rustavi,Latte,7,3.5,24.5
+2024-01-20,Rustavi,Cappuccino,14,3.0,42.0
+2024-01-20,Rustavi,Americano,7,4.0,28.0
+2024-01-20,Rustavi,Mocha,11,3.5,38.5
+2024-01-20,Rustavi,Cold Brew,10,4.0,40.0
+2024-01-21,Tbilisi,Espresso,7,3.0,21.0
+2024-01-21,Tbilisi,Latte,4,2.5,10.0
+2024-01-21,Tbilisi,Cappuccino,7,2.5,17.5
+2024-01-21,Tbilisi,Americano,12,3.5,42.0
+2024-01-21,Tbilisi,Mocha,8,2.5,20.0
+2024-01-21,Tbilisi,Cold Brew,14,4.0,56.0
+2024-01-21,Batumi,Espresso,9,2.5,22.5
+2024-01-21,Batumi,Latte,10,3.0,30.0
+2024-01-21,Batumi,Cappuccino,15,4.0,60.0
+2024-01-21,Batumi,Americano,8,3.5,28.0
+2024-01-21,Batumi,Mocha,15,3.0,45.0
+2024-01-21,Batumi,Cold Brew,11,2.5,27.5
+2024-01-21,Kutaisi,Espresso,12,4.0,48.0
+2024-01-21,Kutaisi,Latte,6,2.5,15.0
+2024-01-21,Kutaisi,Cappuccino,20,4.0,80.0
+2024-01-21,Kutaisi,Americano,14,3.5,49.0
+2024-01-21,Kutaisi,Mocha,9,3.5,31.5
+2024-01-21,Kutaisi,Cold Brew,9,2.5,22.5
+2024-01-21,Rustavi,Espresso,6,3.5,21.0
+2024-01-21,Rustavi,Latte,19,3.0,57.0
+2024-01-21,Rustavi,Cappuccino,11,3.5,38.5
+2024-01-21,Rustavi,Americano,13,3.5,45.5
+2024-01-21,Rustavi,Mocha,19,3.5,66.5
+2024-01-21,Rustavi,Cold Brew,7,3.0,21.0
+2024-01-22,Tbilisi,Espresso,6,4.0,24.0
+2024-01-22,Tbilisi,Latte,8,4.0,32.0
+2024-01-22,Tbilisi,Cappuccino,9,3.0,27.0
+2024-01-22,Tbilisi,Americano,11,3.0,33.0
+2024-01-22,Tbilisi,Mocha,6,3.5,21.0
+2024-01-22,Tbilisi,Cold Brew,12,3.0,36.0
+2024-01-22,Batumi,Espresso,7,3.5,24.5
+2024-01-22,Batumi,Latte,8,2.5,20.0
+2024-01-22,Batumi,Cappuccino,2,3.5,7.0
+2024-01-22,Batumi,Americano,8,4.0,32.0
+2024-01-22,Batumi,Mocha,2,4.0,8.0
+2024-01-22,Batumi,Cold Brew,11,2.5,27.5
+2024-01-22,Kutaisi,Espresso,9,3.0,27.0
+2024-01-22,Kutaisi,Latte,10,2.5,25.0
+2024-01-22,Kutaisi,Cappuccino,6,4.0,24.0
+2024-01-22,Kutaisi,Americano,8,2.5,20.0
+2024-01-22,Kutaisi,Mocha,7,4.0,28.0
+2024-01-22,Kutaisi,Cold Brew,19,3.0,57.0
+2024-01-22,Rustavi,Espresso,12,3.5,42.0
+2024-01-22,Rustavi,Latte,14,2.5,35.0
+2024-01-22,Rustavi,Cappuccino,10,4.0,40.0
+2024-01-22,Rustavi,Americano,14,2.5,35.0
+2024-01-22,Rustavi,Mocha,12,4.0,48.0
+2024-01-22,Rustavi,Cold Brew,7,3.5,24.5
+2024-01-23,Tbilisi,Espresso,9,4.0,36.0
+2024-01-23,Tbilisi,Latte,5,2.5,12.5
+2024-01-23,Tbilisi,Cappuccino,11,3.0,33.0
+2024-01-23,Tbilisi,Americano,14,3.5,49.0
+2024-01-23,Tbilisi,Mocha,8,2.5,20.0
+2024-01-23,Tbilisi,Cold Brew,13,3.0,39.0
+2024-01-23,Batumi,Espresso,13,3.5,45.5
+2024-01-23,Batumi,Latte,10,3.0,30.0
+2024-01-23,Batumi,Cappuccino,8,4.0,32.0
+2024-01-23,Batumi,Americano,9,3.0,27.0
+2024-01-23,Batumi,Mocha,9,3.5,31.5
+2024-01-23,Batumi,Cold Brew,7,2.5,17.5
+2024-01-23,Kutaisi,Espresso,7,2.5,17.5
+2024-01-23,Kutaisi,Latte,11,3.5,38.5
+2024-01-23,Kutaisi,Cappuccino,11,2.5,27.5
+2024-01-23,Kutaisi,Americano,9,3.0,27.0
+2024-01-23,Kutaisi,Mocha,10,4.0,40.0
+2024-01-23,Kutaisi,Cold Brew,9,3.0,27.0
+2024-01-23,Rustavi,Espresso,11,4.0,44.0
+2024-01-23,Rustavi,Latte,11,3.0,33.0
+2024-01-23,Rustavi,Cappuccino,13,3.5,45.5
+2024-01-23,Rustavi,Americano,17,3.0,51.0
+2024-01-23,Rustavi,Mocha,7,3.5,24.5
+2024-01-23,Rustavi,Cold Brew,8,4.0,32.0
+2024-01-24,Tbilisi,Espresso,10,2.5,25.0
+2024-01-24,Tbilisi,Latte,8,2.5,20.0
+2024-01-24,Tbilisi,Cappuccino,13,3.0,39.0
+2024-01-24,Tbilisi,Americano,8,3.0,24.0
+2024-01-24,Tbilisi,Mocha,12,3.5,42.0
+2024-01-24,Tbilisi,Cold Brew,9,2.5,22.5
+2024-01-24,Batumi,Espresso,7,4.0,28.0
+2024-01-24,Batumi,Latte,7,3.0,21.0
+2024-01-24,Batumi,Cappuccino,12,4.0,48.0
+2024-01-24,Batumi,Americano,11,4.0,44.0
+2024-01-24,Batumi,Mocha,18,3.0,54.0
+2024-01-24,Batumi,Cold Brew,13,3.5,45.5
+2024-01-24,Kutaisi,Espresso,17,2.5,42.5
+2024-01-24,Kutaisi,Latte,7,2.5,17.5
+2024-01-24,Kutaisi,Cappuccino,11,4.0,44.0
+2024-01-24,Kutaisi,Americano,8,3.5,28.0
+2024-01-24,Kutaisi,Mocha,13,3.5,45.5
+2024-01-24,Kutaisi,Cold Brew,13,4.0,52.0
+2024-01-24,Rustavi,Espresso,12,3.0,36.0
+2024-01-24,Rustavi,Latte,11,3.0,33.0
+2024-01-24,Rustavi,Cappuccino,11,3.5,38.5
+2024-01-24,Rustavi,Americano,7,4.0,28.0
+2024-01-24,Rustavi,Mocha,11,2.5,27.5
+2024-01-24,Rustavi,Cold Brew,7,2.5,17.5
+2024-01-25,Tbilisi,Espresso,11,2.5,27.5
+2024-01-25,Tbilisi,Latte,12,3.5,42.0
+2024-01-25,Tbilisi,Cappuccino,9,4.0,36.0
+2024-01-25,Tbilisi,Americano,6,3.5,21.0
+2024-01-25,Tbilisi,Mocha,12,2.5,30.0
+2024-01-25,Tbilisi,Cold Brew,8,2.5,20.0
+2024-01-25,Batumi,Espresso,7,2.5,17.5
+2024-01-25,Batumi,Latte,7,3.0,21.0
+2024-01-25,Batumi,Cappuccino,4,3.5,14.0
+2024-01-25,Batumi,Americano,7,2.5,17.5
+2024-01-25,Batumi,Mocha,14,4.0,56.0
+2024-01-25,Batumi,Cold Brew,10,3.5,35.0
+2024-01-25,Kutaisi,Espresso,8,3.5,28.0
+2024-01-25,Kutaisi,Latte,10,2.5,25.0
+2024-01-25,Kutaisi,Cappuccino,10,2.5,25.0
+2024-01-25,Kutaisi,Americano,7,4.0,28.0
+2024-01-25,Kutaisi,Mocha,5,4.0,20.0
+2024-01-25,Kutaisi,Cold Brew,13,2.5,32.5
+2024-01-25,Rustavi,Espresso,16,2.5,40.0
+2024-01-25,Rustavi,Latte,9,3.5,31.5
+2024-01-25,Rustavi,Cappuccino,10,3.0,30.0
+2024-01-25,Rustavi,Americano,10,4.0,40.0
+2024-01-25,Rustavi,Mocha,5,3.5,17.5
+2024-01-25,Rustavi,Cold Brew,6,2.5,15.0
+2024-01-26,Tbilisi,Espresso,8,2.5,20.0
+2024-01-26,Tbilisi,Latte,10,2.5,25.0
+2024-01-26,Tbilisi,Cappuccino,9,2.5,22.5
+2024-01-26,Tbilisi,Americano,11,4.0,44.0
+2024-01-26,Tbilisi,Mocha,15,3.0,45.0
+2024-01-26,Tbilisi,Cold Brew,9,4.0,36.0
+2024-01-26,Batumi,Espresso,13,3.5,45.5
+2024-01-26,Batumi,Latte,5,4.0,20.0
+2024-01-26,Batumi,Cappuccino,11,3.0,33.0
+2024-01-26,Batumi,Americano,6,3.0,18.0
+2024-01-26,Batumi,Mocha,15,3.0,45.0
+2024-01-26,Batumi,Cold Brew,11,3.0,33.0
+2024-01-26,Kutaisi,Espresso,6,2.5,15.0
+2024-01-26,Kutaisi,Latte,9,2.5,22.5
+2024-01-26,Kutaisi,Cappuccino,9,3.5,31.5
+2024-01-26,Kutaisi,Americano,18,3.0,54.0
+2024-01-26,Kutaisi,Mocha,8,4.0,32.0
+2024-01-26,Kutaisi,Cold Brew,9,2.5,22.5
+2024-01-26,Rustavi,Espresso,11,3.0,33.0
+2024-01-26,Rustavi,Latte,11,3.5,38.5
+2024-01-26,Rustavi,Cappuccino,6,3.5,21.0
+2024-01-26,Rustavi,Americano,13,3.5,45.5
+2024-01-26,Rustavi,Mocha,6,2.5,15.0
+2024-01-26,Rustavi,Cold Brew,8,2.5,20.0
+2024-01-27,Tbilisi,Espresso,12,3.0,36.0
+2024-01-27,Tbilisi,Latte,13,3.5,45.5
+2024-01-27,Tbilisi,Cappuccino,8,3.5,28.0
+2024-01-27,Tbilisi,Americano,10,4.0,40.0
+2024-01-27,Tbilisi,Mocha,9,4.0,36.0
+2024-01-27,Tbilisi,Cold Brew,9,3.0,27.0
+2024-01-27,Batumi,Espresso,13,4.0,52.0
+2024-01-27,Batumi,Latte,13,3.5,45.5
+2024-01-27,Batumi,Cappuccino,9,4.0,36.0
+2024-01-27,Batumi,Americano,13,4.0,52.0
+2024-01-27,Batumi,Mocha,10,3.5,35.0
+2024-01-27,Batumi,Cold Brew,18,2.5,45.0
+2024-01-27,Kutaisi,Espresso,5,3.0,15.0
+2024-01-27,Kutaisi,Latte,9,3.0,27.0
+2024-01-27,Kutaisi,Cappuccino,5,3.5,17.5
+2024-01-27,Kutaisi,Americano,6,3.0,18.0
+2024-01-27,Kutaisi,Mocha,12,4.0,48.0
+2024-01-27,Kutaisi,Cold Brew,9,4.0,36.0
+2024-01-27,Rustavi,Espresso,10,3.0,30.0
+2024-01-27,Rustavi,Latte,13,2.5,32.5
+2024-01-27,Rustavi,Cappuccino,12,3.0,36.0
+2024-01-27,Rustavi,Americano,10,3.0,30.0
+2024-01-27,Rustavi,Mocha,11,4.0,44.0
+2024-01-27,Rustavi,Cold Brew,4,4.0,16.0
+2024-01-28,Tbilisi,Espresso,6,3.0,18.0
+2024-01-28,Tbilisi,Latte,10,3.5,35.0
+2024-01-28,Tbilisi,Cappuccino,2,3.0,6.0
+2024-01-28,Tbilisi,Americano,12,4.0,48.0
+2024-01-28,Tbilisi,Mocha,4,3.0,12.0
+2024-01-28,Tbilisi,Cold Brew,17,4.0,68.0
+2024-01-28,Batumi,Espresso,8,4.0,32.0
+2024-01-28,Batumi,Latte,8,2.5,20.0
+2024-01-28,Batumi,Cappuccino,12,3.5,42.0
+2024-01-28,Batumi,Americano,6,2.5,15.0
+2024-01-28,Batumi,Mocha,8,3.5,28.0
+2024-01-28,Batumi,Cold Brew,8,3.5,28.0
+2024-01-28,Kutaisi,Espresso,11,2.5,27.5
+2024-01-28,Kutaisi,Latte,7,3.0,21.0
+2024-01-28,Kutaisi,Cappuccino,11,4.0,44.0
+2024-01-28,Kutaisi,Americano,11,4.0,44.0
+2024-01-28,Kutaisi,Mocha,13,3.5,45.5
+2024-01-28,Kutaisi,Cold Brew,11,4.0,44.0
+2024-01-28,Rustavi,Espresso,13,3.5,45.5
+2024-01-28,Rustavi,Latte,6,3.5,21.0
+2024-01-28,Rustavi,Cappuccino,16,3.5,56.0
+2024-01-28,Rustavi,Americano,9,2.5,22.5
+2024-01-28,Rustavi,Mocha,9,2.5,22.5
+2024-01-28,Rustavi,Cold Brew,16,3.0,48.0
+2024-01-29,Tbilisi,Espresso,6,3.5,21.0
+2024-01-29,Tbilisi,Latte,14,3.5,49.0
+2024-01-29,Tbilisi,Cappuccino,8,3.0,24.0
+2024-01-29,Tbilisi,Americano,15,3.5,52.5
+2024-01-29,Tbilisi,Mocha,13,4.0,52.0
+2024-01-29,Tbilisi,Cold Brew,13,2.5,32.5
+2024-01-29,Batumi,Espresso,6,3.5,21.0
+2024-01-29,Batumi,Latte,6,2.5,15.0
+2024-01-29,Batumi,Cappuccino,13,3.0,39.0
+2024-01-29,Batumi,Americano,10,4.0,40.0
+2024-01-29,Batumi,Mocha,12,3.0,36.0
+2024-01-29,Batumi,Cold Brew,11,2.5,27.5
+2024-01-29,Kutaisi,Espresso,8,2.5,20.0
+2024-01-29,Kutaisi,Latte,11,2.5,27.5
+2024-01-29,Kutaisi,Cappuccino,6,3.5,21.0
+2024-01-29,Kutaisi,Americano,5,3.5,17.5
+2024-01-29,Kutaisi,Mocha,13,3.0,39.0
+2024-01-29,Kutaisi,Cold Brew,10,3.5,35.0
+2024-01-29,Rustavi,Espresso,11,4.0,44.0
+2024-01-29,Rustavi,Latte,9,2.5,22.5
+2024-01-29,Rustavi,Cappuccino,10,4.0,40.0
+2024-01-29,Rustavi,Americano,13,3.0,39.0
+2024-01-29,Rustavi,Mocha,12,3.5,42.0
+2024-01-29,Rustavi,Cold Brew,18,2.5,45.0
+2024-01-30,Tbilisi,Espresso,8,3.0,24.0
+2024-01-30,Tbilisi,Latte,8,3.0,24.0
+2024-01-30,Tbilisi,Cappuccino,9,3.0,27.0
+2024-01-30,Tbilisi,Americano,14,4.0,56.0
+2024-01-30,Tbilisi,Mocha,9,2.5,22.5
+2024-01-30,Tbilisi,Cold Brew,12,2.5,30.0
+2024-01-30,Batumi,Espresso,11,3.0,33.0
+2024-01-30,Batumi,Latte,13,3.0,39.0
+2024-01-30,Batumi,Cappuccino,11,2.5,27.5
+2024-01-30,Batumi,Americano,11,4.0,44.0
+2024-01-30,Batumi,Mocha,11,2.5,27.5
+2024-01-30,Batumi,Cold Brew,11,4.0,44.0
+2024-01-30,Kutaisi,Espresso,8,2.5,20.0
+2024-01-30,Kutaisi,Latte,10,4.0,40.0
+2024-01-30,Kutaisi,Cappuccino,4,2.5,10.0
+2024-01-30,Kutaisi,Americano,13,4.0,52.0
+2024-01-30,Kutaisi,Mocha,9,3.0,27.0
+2024-01-30,Kutaisi,Cold Brew,8,3.5,28.0
+2024-01-30,Rustavi,Espresso,5,3.0,15.0
+2024-01-30,Rustavi,Latte,11,3.0,33.0
+2024-01-30,Rustavi,Cappuccino,11,3.0,33.0
+2024-01-30,Rustavi,Americano,11,4.0,44.0
+2024-01-30,Rustavi,Mocha,5,2.5,12.5
+2024-01-30,Rustavi,Cold Brew,14,2.5,35.0
+2024-01-31,Tbilisi,Espresso,11,2.5,27.5
+2024-01-31,Tbilisi,Latte,7,3.0,21.0
+2024-01-31,Tbilisi,Cappuccino,8,4.0,32.0
+2024-01-31,Tbilisi,Americano,8,3.0,24.0
+2024-01-31,Tbilisi,Mocha,7,2.5,17.5
+2024-01-31,Tbilisi,Cold Brew,7,4.0,28.0
+2024-01-31,Batumi,Espresso,10,3.5,35.0
+2024-01-31,Batumi,Latte,6,3.0,18.0
+2024-01-31,Batumi,Cappuccino,12,2.5,30.0
+2024-01-31,Batumi,Americano,9,4.0,36.0
+2024-01-31,Batumi,Mocha,13,2.5,32.5
+2024-01-31,Batumi,Cold Brew,11,4.0,44.0
+2024-01-31,Kutaisi,Espresso,17,2.5,42.5
+2024-01-31,Kutaisi,Latte,3,2.5,7.5
+2024-01-31,Kutaisi,Cappuccino,8,2.5,20.0
+2024-01-31,Kutaisi,Americano,15,3.5,52.5
+2024-01-31,Kutaisi,Mocha,8,2.5,20.0
+2024-01-31,Kutaisi,Cold Brew,9,4.0,36.0
+2024-01-31,Rustavi,Espresso,4,3.0,12.0
+2024-01-31,Rustavi,Latte,15,3.5,52.5
+2024-01-31,Rustavi,Cappuccino,10,3.0,30.0
+2024-01-31,Rustavi,Americano,18,3.5,63.0
+2024-01-31,Rustavi,Mocha,16,4.0,64.0
+2024-01-31,Rustavi,Cold Brew,9,3.5,31.5
+2024-02-01,Tbilisi,Espresso,7,3.5,24.5
+2024-02-01,Tbilisi,Latte,7,3.0,21.0
+2024-02-01,Tbilisi,Cappuccino,11,3.0,33.0
+2024-02-01,Tbilisi,Americano,5,2.5,12.5
+2024-02-01,Tbilisi,Mocha,7,3.0,21.0
+2024-02-01,Tbilisi,Cold Brew,14,4.0,56.0
+2024-02-01,Batumi,Espresso,10,4.0,40.0
+2024-02-01,Batumi,Latte,10,2.5,25.0
+2024-02-01,Batumi,Cappuccino,10,2.5,25.0
+2024-02-01,Batumi,Americano,10,3.0,30.0
+2024-02-01,Batumi,Mocha,11,3.0,33.0
+2024-02-01,Batumi,Cold Brew,4,2.5,10.0
+2024-02-01,Kutaisi,Espresso,13,2.5,32.5
+2024-02-01,Kutaisi,Latte,7,3.5,24.5
+2024-02-01,Kutaisi,Cappuccino,6,3.5,21.0
+2024-02-01,Kutaisi,Americano,13,4.0,52.0
+2024-02-01,Kutaisi,Mocha,7,3.5,24.5
+2024-02-01,Kutaisi,Cold Brew,10,3.5,35.0
+2024-02-01,Rustavi,Espresso,10,3.5,35.0
+2024-02-01,Rustavi,Latte,5,3.0,15.0
+2024-02-01,Rustavi,Cappuccino,13,4.0,52.0
+2024-02-01,Rustavi,Americano,7,3.5,24.5
+2024-02-01,Rustavi,Mocha,8,3.5,28.0
+2024-02-01,Rustavi,Cold Brew,11,3.0,33.0
+2024-02-02,Tbilisi,Espresso,13,2.5,32.5
+2024-02-02,Tbilisi,Latte,15,3.5,52.5
+2024-02-02,Tbilisi,Cappuccino,6,3.5,21.0
+2024-02-02,Tbilisi,Americano,13,4.0,52.0
+2024-02-02,Tbilisi,Mocha,6,3.0,18.0
+2024-02-02,Tbilisi,Cold Brew,7,3.5,24.5
+2024-02-02,Batumi,Espresso,11,2.5,27.5
+2024-02-02,Batumi,Latte,9,4.0,36.0
+2024-02-02,Batumi,Cappuccino,5,2.5,12.5
+2024-02-02,Batumi,Americano,13,4.0,52.0
+2024-02-02,Batumi,Mocha,19,2.5,47.5
+2024-02-02,Batumi,Cold Brew,11,3.5,38.5
+2024-02-02,Kutaisi,Espresso,14,3.5,49.0
+2024-02-02,Kutaisi,Latte,6,3.0,18.0
+2024-02-02,Kutaisi,Cappuccino,11,3.0,33.0
+2024-02-02,Kutaisi,Americano,7,4.0,28.0
+2024-02-02,Kutaisi,Mocha,13,3.0,39.0
+2024-02-02,Kutaisi,Cold Brew,12,2.5,30.0
+2024-02-02,Rustavi,Espresso,10,3.0,30.0
+2024-02-02,Rustavi,Latte,10,3.0,30.0
+2024-02-02,Rustavi,Cappuccino,10,3.0,30.0
+2024-02-02,Rustavi,Americano,8,4.0,32.0
+2024-02-02,Rustavi,Mocha,5,4.0,20.0
+2024-02-02,Rustavi,Cold Brew,6,3.5,21.0
+2024-02-03,Tbilisi,Espresso,9,3.0,27.0
+2024-02-03,Tbilisi,Latte,11,3.5,38.5
+2024-02-03,Tbilisi,Cappuccino,8,3.5,28.0
+2024-02-03,Tbilisi,Americano,11,3.5,38.5
+2024-02-03,Tbilisi,Mocha,12,4.0,48.0
+2024-02-03,Tbilisi,Cold Brew,12,2.5,30.0
+2024-02-03,Batumi,Espresso,8,4.0,32.0
+2024-02-03,Batumi,Latte,12,2.5,30.0
+2024-02-03,Batumi,Cappuccino,8,4.0,32.0
+2024-02-03,Batumi,Americano,13,3.5,45.5
+2024-02-03,Batumi,Mocha,12,3.0,36.0
+2024-02-03,Batumi,Cold Brew,5,4.0,20.0
+2024-02-03,Kutaisi,Espresso,10,3.0,30.0
+2024-02-03,Kutaisi,Latte,10,3.0,30.0
+2024-02-03,Kutaisi,Cappuccino,21,2.5,52.5
+2024-02-03,Kutaisi,Americano,9,4.0,36.0
+2024-02-03,Kutaisi,Mocha,8,2.5,20.0
+2024-02-03,Kutaisi,Cold Brew,8,3.5,28.0
+2024-02-03,Rustavi,Espresso,12,3.0,36.0
+2024-02-03,Rustavi,Latte,14,2.5,35.0
+2024-02-03,Rustavi,Cappuccino,14,4.0,56.0
+2024-02-03,Rustavi,Americano,12,4.0,48.0
+2024-02-03,Rustavi,Mocha,5,4.0,20.0
+2024-02-03,Rustavi,Cold Brew,8,3.0,24.0
+2024-02-04,Tbilisi,Espresso,8,4.0,32.0
+2024-02-04,Tbilisi,Latte,12,3.0,36.0
+2024-02-04,Tbilisi,Cappuccino,12,4.0,48.0
+2024-02-04,Tbilisi,Americano,15,3.5,52.5
+2024-02-04,Tbilisi,Mocha,4,3.5,14.0
+2024-02-04,Tbilisi,Cold Brew,13,3.5,45.5
+2024-02-04,Batumi,Espresso,14,4.0,56.0
+2024-02-04,Batumi,Latte,11,3.0,33.0
+2024-02-04,Batumi,Cappuccino,14,3.0,42.0
+2024-02-04,Batumi,Americano,10,3.0,30.0
+2024-02-04,Batumi,Mocha,8,2.5,20.0
+2024-02-04,Batumi,Cold Brew,13,4.0,52.0
+2024-02-04,Kutaisi,Espresso,15,3.5,52.5
+2024-02-04,Kutaisi,Latte,11,4.0,44.0
+2024-02-04,Kutaisi,Cappuccino,11,4.0,44.0
+2024-02-04,Kutaisi,Americano,7,2.5,17.5
+2024-02-04,Kutaisi,Mocha,5,3.0,15.0
+2024-02-04,Kutaisi,Cold Brew,10,2.5,25.0
+2024-02-04,Rustavi,Espresso,17,4.0,68.0
+2024-02-04,Rustavi,Latte,12,3.5,42.0
+2024-02-04,Rustavi,Cappuccino,11,3.0,33.0
+2024-02-04,Rustavi,Americano,7,3.5,24.5
+2024-02-04,Rustavi,Mocha,10,3.5,35.0
+2024-02-04,Rustavi,Cold Brew,6,4.0,24.0
+2024-02-05,Tbilisi,Espresso,10,3.0,30.0
+2024-02-05,Tbilisi,Latte,11,2.5,27.5
+2024-02-05,Tbilisi,Cappuccino,7,3.5,24.5
+2024-02-05,Tbilisi,Americano,7,2.5,17.5
+2024-02-05,Tbilisi,Mocha,5,3.5,17.5
+2024-02-05,Tbilisi,Cold Brew,13,4.0,52.0
+2024-02-05,Batumi,Espresso,10,2.5,25.0
+2024-02-05,Batumi,Latte,16,4.0,64.0
+2024-02-05,Batumi,Cappuccino,5,2.5,12.5
+2024-02-05,Batumi,Americano,5,4.0,20.0
+2024-02-05,Batumi,Mocha,10,2.5,25.0
+2024-02-05,Batumi,Cold Brew,10,4.0,40.0
+2024-02-05,Kutaisi,Espresso,8,3.5,28.0
+2024-02-05,Kutaisi,Latte,9,2.5,22.5
+2024-02-05,Kutaisi,Cappuccino,15,3.5,52.5
+2024-02-05,Kutaisi,Americano,11,3.5,38.5
+2024-02-05,Kutaisi,Mocha,13,2.5,32.5
+2024-02-05,Kutaisi,Cold Brew,11,3.0,33.0
+2024-02-05,Rustavi,Espresso,7,2.5,17.5
+2024-02-05,Rustavi,Latte,11,2.5,27.5
+2024-02-05,Rustavi,Cappuccino,5,3.0,15.0
+2024-02-05,Rustavi,Americano,10,3.0,30.0
+2024-02-05,Rustavi,Mocha,6,4.0,24.0
+2024-02-05,Rustavi,Cold Brew,13,4.0,52.0
+2024-02-06,Tbilisi,Espresso,4,3.0,12.0
+2024-02-06,Tbilisi,Latte,16,3.0,48.0
+2024-02-06,Tbilisi,Cappuccino,12,3.5,42.0
+2024-02-06,Tbilisi,Americano,11,2.5,27.5
+2024-02-06,Tbilisi,Mocha,12,3.0,36.0
+2024-02-06,Tbilisi,Cold Brew,15,4.0,60.0
+2024-02-06,Batumi,Espresso,10,4.0,40.0
+2024-02-06,Batumi,Latte,8,3.5,28.0
+2024-02-06,Batumi,Cappuccino,11,4.0,44.0
+2024-02-06,Batumi,Americano,6,3.0,18.0
+2024-02-06,Batumi,Mocha,8,2.5,20.0
+2024-02-06,Batumi,Cold Brew,11,3.0,33.0
+2024-02-06,Kutaisi,Espresso,12,3.0,36.0
+2024-02-06,Kutaisi,Latte,12,3.0,36.0
+2024-02-06,Kutaisi,Cappuccino,8,3.0,24.0
+2024-02-06,Kutaisi,Americano,9,2.5,22.5
+2024-02-06,Kutaisi,Mocha,15,4.0,60.0
+2024-02-06,Kutaisi,Cold Brew,8,2.5,20.0
+2024-02-06,Rustavi,Espresso,9,2.5,22.5
+2024-02-06,Rustavi,Latte,12,3.0,36.0
+2024-02-06,Rustavi,Cappuccino,9,3.0,27.0
+2024-02-06,Rustavi,Americano,9,3.0,27.0
+2024-02-06,Rustavi,Mocha,15,3.0,45.0
+2024-02-06,Rustavi,Cold Brew,6,2.5,15.0
+2024-02-07,Tbilisi,Espresso,11,3.0,33.0
+2024-02-07,Tbilisi,Latte,8,4.0,32.0
+2024-02-07,Tbilisi,Cappuccino,9,4.0,36.0
+2024-02-07,Tbilisi,Americano,12,4.0,48.0
+2024-02-07,Tbilisi,Mocha,9,4.0,36.0
+2024-02-07,Tbilisi,Cold Brew,12,4.0,48.0
+2024-02-07,Batumi,Espresso,10,3.5,35.0
+2024-02-07,Batumi,Latte,9,3.5,31.5
+2024-02-07,Batumi,Cappuccino,6,3.0,18.0
+2024-02-07,Batumi,Americano,13,2.5,32.5
+2024-02-07,Batumi,Mocha,8,2.5,20.0
+2024-02-07,Batumi,Cold Brew,8,2.5,20.0
+2024-02-07,Kutaisi,Espresso,11,4.0,44.0
+2024-02-07,Kutaisi,Latte,18,3.0,54.0
+2024-02-07,Kutaisi,Cappuccino,9,3.5,31.5
+2024-02-07,Kutaisi,Americano,10,3.5,35.0
+2024-02-07,Kutaisi,Mocha,10,3.0,30.0
+2024-02-07,Kutaisi,Cold Brew,9,4.0,36.0
+2024-02-07,Rustavi,Espresso,7,4.0,28.0
+2024-02-07,Rustavi,Latte,10,2.5,25.0
+2024-02-07,Rustavi,Cappuccino,11,4.0,44.0
+2024-02-07,Rustavi,Americano,9,2.5,22.5
+2024-02-07,Rustavi,Mocha,10,4.0,40.0
+2024-02-07,Rustavi,Cold Brew,11,3.0,33.0
+2024-02-08,Tbilisi,Espresso,11,3.5,38.5
+2024-02-08,Tbilisi,Latte,9,4.0,36.0
+2024-02-08,Tbilisi,Cappuccino,10,3.0,30.0
+2024-02-08,Tbilisi,Americano,15,3.5,52.5
+2024-02-08,Tbilisi,Mocha,10,2.5,25.0
+2024-02-08,Tbilisi,Cold Brew,6,4.0,24.0
+2024-02-08,Batumi,Espresso,6,2.5,15.0
+2024-02-08,Batumi,Latte,8,3.5,28.0
+2024-02-08,Batumi,Cappuccino,16,2.5,40.0
+2024-02-08,Batumi,Americano,10,4.0,40.0
+2024-02-08,Batumi,Mocha,11,3.5,38.5
+2024-02-08,Batumi,Cold Brew,8,4.0,32.0
+2024-02-08,Kutaisi,Espresso,13,3.5,45.5
+2024-02-08,Kutaisi,Latte,10,4.0,40.0
+2024-02-08,Kutaisi,Cappuccino,13,3.5,45.5
+2024-02-08,Kutaisi,Americano,7,2.5,17.5
+2024-02-08,Kutaisi,Mocha,14,4.0,56.0
+2024-02-08,Kutaisi,Cold Brew,9,4.0,36.0
+2024-02-08,Rustavi,Espresso,12,4.0,48.0
+2024-02-08,Rustavi,Latte,12,4.0,48.0
+2024-02-08,Rustavi,Cappuccino,8,2.5,20.0
+2024-02-08,Rustavi,Americano,13,3.5,45.5
+2024-02-08,Rustavi,Mocha,8,3.5,28.0
+2024-02-08,Rustavi,Cold Brew,12,2.5,30.0
+2024-02-09,Tbilisi,Espresso,11,4.0,44.0
+2024-02-09,Tbilisi,Latte,14,3.5,49.0
+2024-02-09,Tbilisi,Cappuccino,5,4.0,20.0
+2024-02-09,Tbilisi,Americano,4,2.5,10.0
+2024-02-09,Tbilisi,Mocha,9,4.0,36.0
+2024-02-09,Tbilisi,Cold Brew,8,3.0,24.0
+2024-02-09,Batumi,Espresso,10,4.0,40.0
+2024-02-09,Batumi,Latte,4,4.0,16.0
+2024-02-09,Batumi,Cappuccino,3,4.0,12.0
+2024-02-09,Batumi,Americano,9,3.0,27.0
+2024-02-09,Batumi,Mocha,7,3.5,24.5
+2024-02-09,Batumi,Cold Brew,9,3.5,31.5
+2024-02-09,Kutaisi,Espresso,8,3.0,24.0
+2024-02-09,Kutaisi,Latte,7,4.0,28.0
+2024-02-09,Kutaisi,Cappuccino,9,2.5,22.5
+2024-02-09,Kutaisi,Americano,6,2.5,15.0
+2024-02-09,Kutaisi,Mocha,10,3.5,35.0
+2024-02-09,Kutaisi,Cold Brew,11,4.0,44.0
+2024-02-09,Rustavi,Espresso,7,4.0,28.0
+2024-02-09,Rustavi,Latte,10,3.5,35.0
+2024-02-09,Rustavi,Cappuccino,6,4.0,24.0
+2024-02-09,Rustavi,Americano,8,2.5,20.0
+2024-02-09,Rustavi,Mocha,8,3.5,28.0
+2024-02-09,Rustavi,Cold Brew,11,3.0,33.0
+2024-02-10,Tbilisi,Espresso,12,2.5,30.0
+2024-02-10,Tbilisi,Latte,3,2.5,7.5
+2024-02-10,Tbilisi,Cappuccino,12,4.0,48.0
+2024-02-10,Tbilisi,Americano,14,3.0,42.0
+2024-02-10,Tbilisi,Mocha,7,3.5,24.5
+2024-02-10,Tbilisi,Cold Brew,8,2.5,20.0
+2024-02-10,Batumi,Espresso,9,3.5,31.5
+2024-02-10,Batumi,Latte,14,2.5,35.0
+2024-02-10,Batumi,Cappuccino,9,4.0,36.0
+2024-02-10,Batumi,Americano,5,2.5,12.5
+2024-02-10,Batumi,Mocha,10,2.5,25.0
+2024-02-10,Batumi,Cold Brew,11,3.5,38.5
+2024-02-10,Kutaisi,Espresso,12,2.5,30.0
+2024-02-10,Kutaisi,Latte,17,2.5,42.5
+2024-02-10,Kutaisi,Cappuccino,8,2.5,20.0
+2024-02-10,Kutaisi,Americano,13,3.5,45.5
+2024-02-10,Kutaisi,Mocha,3,3.5,10.5
+2024-02-10,Kutaisi,Cold Brew,17,3.5,59.5
+2024-02-10,Rustavi,Espresso,9,3.0,27.0
+2024-02-10,Rustavi,Latte,7,2.5,17.5
+2024-02-10,Rustavi,Cappuccino,9,3.5,31.5
+2024-02-10,Rustavi,Americano,13,3.0,39.0
+2024-02-10,Rustavi,Mocha,7,3.0,21.0
+2024-02-10,Rustavi,Cold Brew,10,3.5,35.0
+2024-02-11,Tbilisi,Espresso,7,4.0,28.0
+2024-02-11,Tbilisi,Latte,11,4.0,44.0
+2024-02-11,Tbilisi,Cappuccino,6,3.5,21.0
+2024-02-11,Tbilisi,Americano,12,3.0,36.0
+2024-02-11,Tbilisi,Mocha,11,4.0,44.0
+2024-02-11,Tbilisi,Cold Brew,12,3.5,42.0
+2024-02-11,Batumi,Espresso,15,2.5,37.5
+2024-02-11,Batumi,Latte,9,3.5,31.5
+2024-02-11,Batumi,Cappuccino,5,4.0,20.0
+2024-02-11,Batumi,Americano,8,2.5,20.0
+2024-02-11,Batumi,Mocha,8,3.5,28.0
+2024-02-11,Batumi,Cold Brew,6,4.0,24.0
+2024-02-11,Kutaisi,Espresso,10,3.0,30.0
+2024-02-11,Kutaisi,Latte,10,4.0,40.0
+2024-02-11,Kutaisi,Cappuccino,18,3.0,54.0
+2024-02-11,Kutaisi,Americano,12,4.0,48.0
+2024-02-11,Kutaisi,Mocha,6,2.5,15.0
+2024-02-11,Kutaisi,Cold Brew,6,2.5,15.0
+2024-02-11,Rustavi,Espresso,13,3.0,39.0
+2024-02-11,Rustavi,Latte,8,4.0,32.0
+2024-02-11,Rustavi,Cappuccino,14,3.0,42.0
+2024-02-11,Rustavi,Americano,13,3.5,45.5
+2024-02-11,Rustavi,Mocha,9,3.5,31.5
+2024-02-11,Rustavi,Cold Brew,4,3.5,14.0
+2024-02-12,Tbilisi,Espresso,7,4.0,28.0
+2024-02-12,Tbilisi,Latte,12,2.5,30.0
+2024-02-12,Tbilisi,Cappuccino,16,4.0,64.0
+2024-02-12,Tbilisi,Americano,18,4.0,72.0
+2024-02-12,Tbilisi,Mocha,9,2.5,22.5
+2024-02-12,Tbilisi,Cold Brew,7,2.5,17.5
+2024-02-12,Batumi,Espresso,11,3.5,38.5
+2024-02-12,Batumi,Latte,11,3.0,33.0
+2024-02-12,Batumi,Cappuccino,13,3.5,45.5
+2024-02-12,Batumi,Americano,9,3.0,27.0
+2024-02-12,Batumi,Mocha,7,3.5,24.5
+2024-02-12,Batumi,Cold Brew,15,4.0,60.0
+2024-02-12,Kutaisi,Espresso,10,3.0,30.0
+2024-02-12,Kutaisi,Latte,12,3.0,36.0
+2024-02-12,Kutaisi,Cappuccino,6,2.5,15.0
+2024-02-12,Kutaisi,Americano,11,3.0,33.0
+2024-02-12,Kutaisi,Mocha,10,4.0,40.0
+2024-02-12,Kutaisi,Cold Brew,10,2.5,25.0
+2024-02-12,Rustavi,Espresso,4,4.0,16.0
+2024-02-12,Rustavi,Latte,13,4.0,52.0
+2024-02-12,Rustavi,Cappuccino,10,2.5,25.0
+2024-02-12,Rustavi,Americano,9,2.5,22.5
+2024-02-12,Rustavi,Mocha,14,3.5,49.0
+2024-02-12,Rustavi,Cold Brew,18,3.0,54.0
+2024-02-13,Tbilisi,Espresso,11,3.0,33.0
+2024-02-13,Tbilisi,Latte,9,3.5,31.5
+2024-02-13,Tbilisi,Cappuccino,16,2.5,40.0
+2024-02-13,Tbilisi,Americano,13,4.0,52.0
+2024-02-13,Tbilisi,Mocha,10,2.5,25.0
+2024-02-13,Tbilisi,Cold Brew,7,2.5,17.5
+2024-02-13,Batumi,Espresso,12,2.5,30.0
+2024-02-13,Batumi,Latte,11,2.5,27.5
+2024-02-13,Batumi,Cappuccino,10,3.5,35.0
+2024-02-13,Batumi,Americano,16,3.5,56.0
+2024-02-13,Batumi,Mocha,11,4.0,44.0
+2024-02-13,Batumi,Cold Brew,8,4.0,32.0
+2024-02-13,Kutaisi,Espresso,12,3.5,42.0
+2024-02-13,Kutaisi,Latte,9,3.0,27.0
+2024-02-13,Kutaisi,Cappuccino,10,3.0,30.0
+2024-02-13,Kutaisi,Americano,5,2.5,12.5
+2024-02-13,Kutaisi,Mocha,9,3.0,27.0
+2024-02-13,Kutaisi,Cold Brew,13,3.5,45.5
+2024-02-13,Rustavi,Espresso,9,3.0,27.0
+2024-02-13,Rustavi,Latte,11,2.5,27.5
+2024-02-13,Rustavi,Cappuccino,13,3.0,39.0
+2024-02-13,Rustavi,Americano,11,4.0,44.0
+2024-02-13,Rustavi,Mocha,11,3.0,33.0
+2024-02-13,Rustavi,Cold Brew,5,3.5,17.5
+2024-02-14,Tbilisi,Espresso,7,3.0,21.0
+2024-02-14,Tbilisi,Latte,2,3.5,7.0
+2024-02-14,Tbilisi,Cappuccino,14,3.5,49.0
+2024-02-14,Tbilisi,Americano,17,3.0,51.0
+2024-02-14,Tbilisi,Mocha,9,4.0,36.0
+2024-02-14,Tbilisi,Cold Brew,10,3.0,30.0
+2024-02-14,Batumi,Espresso,8,4.0,32.0
+2024-02-14,Batumi,Latte,15,3.5,52.5
+2024-02-14,Batumi,Cappuccino,13,3.5,45.5
+2024-02-14,Batumi,Americano,10,3.5,35.0
+2024-02-14,Batumi,Mocha,11,4.0,44.0
+2024-02-14,Batumi,Cold Brew,8,3.0,24.0
+2024-02-14,Kutaisi,Espresso,7,3.0,21.0
+2024-02-14,Kutaisi,Latte,10,4.0,40.0
+2024-02-14,Kutaisi,Cappuccino,8,3.0,24.0
+2024-02-14,Kutaisi,Americano,13,3.5,45.5
+2024-02-14,Kutaisi,Mocha,10,2.5,25.0
+2024-02-14,Kutaisi,Cold Brew,9,3.0,27.0
+2024-02-14,Rustavi,Espresso,6,4.0,24.0
+2024-02-14,Rustavi,Latte,10,2.5,25.0
+2024-02-14,Rustavi,Cappuccino,20,3.5,70.0
+2024-02-14,Rustavi,Americano,8,3.5,28.0
+2024-02-14,Rustavi,Mocha,7,3.0,21.0
+2024-02-14,Rustavi,Cold Brew,7,3.5,24.5
+2024-02-15,Tbilisi,Espresso,9,3.0,27.0
+2024-02-15,Tbilisi,Latte,8,4.0,32.0
+2024-02-15,Tbilisi,Cappuccino,13,3.0,39.0
+2024-02-15,Tbilisi,Americano,9,3.5,31.5
+2024-02-15,Tbilisi,Mocha,13,4.0,52.0
+2024-02-15,Tbilisi,Cold Brew,11,4.0,44.0
+2024-02-15,Batumi,Espresso,12,3.0,36.0
+2024-02-15,Batumi,Latte,13,4.0,52.0
+2024-02-15,Batumi,Cappuccino,17,4.0,68.0
+2024-02-15,Batumi,Americano,8,3.0,24.0
+2024-02-15,Batumi,Mocha,8,3.5,28.0
+2024-02-15,Batumi,Cold Brew,13,4.0,52.0
+2024-02-15,Kutaisi,Espresso,10,2.5,25.0
+2024-02-15,Kutaisi,Latte,9,2.5,22.5
+2024-02-15,Kutaisi,Cappuccino,13,3.0,39.0
+2024-02-15,Kutaisi,Americano,12,4.0,48.0
+2024-02-15,Kutaisi,Mocha,15,4.0,60.0
+2024-02-15,Kutaisi,Cold Brew,8,3.0,24.0
+2024-02-15,Rustavi,Espresso,7,3.0,21.0
+2024-02-15,Rustavi,Latte,12,3.5,42.0
+2024-02-15,Rustavi,Cappuccino,17,3.0,51.0
+2024-02-15,Rustavi,Americano,9,3.0,27.0
+2024-02-15,Rustavi,Mocha,9,3.5,31.5
+2024-02-15,Rustavi,Cold Brew,14,3.0,42.0
+2024-02-16,Tbilisi,Espresso,9,4.0,36.0
+2024-02-16,Tbilisi,Latte,10,4.0,40.0
+2024-02-16,Tbilisi,Cappuccino,6,4.0,24.0
+2024-02-16,Tbilisi,Americano,6,2.5,15.0
+2024-02-16,Tbilisi,Mocha,8,3.0,24.0
+2024-02-16,Tbilisi,Cold Brew,7,2.5,17.5
+2024-02-16,Batumi,Espresso,11,4.0,44.0
+2024-02-16,Batumi,Latte,15,3.0,45.0
+2024-02-16,Batumi,Cappuccino,12,2.5,30.0
+2024-02-16,Batumi,Americano,10,3.0,30.0
+2024-02-16,Batumi,Mocha,8,3.0,24.0
+2024-02-16,Batumi,Cold Brew,11,3.0,33.0
+2024-02-16,Kutaisi,Espresso,12,2.5,30.0
+2024-02-16,Kutaisi,Latte,8,2.5,20.0
+2024-02-16,Kutaisi,Cappuccino,12,3.5,42.0
+2024-02-16,Kutaisi,Americano,12,4.0,48.0
+2024-02-16,Kutaisi,Mocha,7,3.5,24.5
+2024-02-16,Kutaisi,Cold Brew,12,3.0,36.0
+2024-02-16,Rustavi,Espresso,8,2.5,20.0
+2024-02-16,Rustavi,Latte,4,3.5,14.0
+2024-02-16,Rustavi,Cappuccino,5,2.5,12.5
+2024-02-16,Rustavi,Americano,12,3.5,42.0
+2024-02-16,Rustavi,Mocha,9,3.0,27.0
+2024-02-16,Rustavi,Cold Brew,9,2.5,22.5
+2024-02-17,Tbilisi,Espresso,7,3.0,21.0
+2024-02-17,Tbilisi,Latte,8,2.5,20.0
+2024-02-17,Tbilisi,Cappuccino,11,4.0,44.0
+2024-02-17,Tbilisi,Americano,8,3.5,28.0
+2024-02-17,Tbilisi,Mocha,11,4.0,44.0
+2024-02-17,Tbilisi,Cold Brew,11,4.0,44.0
+2024-02-17,Batumi,Espresso,7,3.5,24.5
+2024-02-17,Batumi,Latte,12,2.5,30.0
+2024-02-17,Batumi,Cappuccino,8,3.5,28.0
+2024-02-17,Batumi,Americano,17,3.5,59.5
+2024-02-17,Batumi,Mocha,7,2.5,17.5
+2024-02-17,Batumi,Cold Brew,12,4.0,48.0
+2024-02-17,Kutaisi,Espresso,9,3.5,31.5
+2024-02-17,Kutaisi,Latte,11,3.0,33.0
+2024-02-17,Kutaisi,Cappuccino,9,3.5,31.5
+2024-02-17,Kutaisi,Americano,7,2.5,17.5
+2024-02-17,Kutaisi,Mocha,21,3.0,63.0
+2024-02-17,Kutaisi,Cold Brew,5,4.0,20.0
+2024-02-17,Rustavi,Espresso,15,3.5,52.5
+2024-02-17,Rustavi,Latte,7,4.0,28.0
+2024-02-17,Rustavi,Cappuccino,12,2.5,30.0
+2024-02-17,Rustavi,Americano,11,2.5,27.5
+2024-02-17,Rustavi,Mocha,11,2.5,27.5
+2024-02-17,Rustavi,Cold Brew,12,4.0,48.0
+2024-02-18,Tbilisi,Espresso,7,3.5,24.5
+2024-02-18,Tbilisi,Latte,12,2.5,30.0
+2024-02-18,Tbilisi,Cappuccino,7,3.0,21.0
+2024-02-18,Tbilisi,Americano,8,2.5,20.0
+2024-02-18,Tbilisi,Mocha,4,2.5,10.0
+2024-02-18,Tbilisi,Cold Brew,12,3.0,36.0
+2024-02-18,Batumi,Espresso,12,4.0,48.0
+2024-02-18,Batumi,Latte,16,3.0,48.0
+2024-02-18,Batumi,Cappuccino,7,3.5,24.5
+2024-02-18,Batumi,Americano,12,3.0,36.0
+2024-02-18,Batumi,Mocha,10,2.5,25.0
+2024-02-18,Batumi,Cold Brew,9,2.5,22.5
+2024-02-18,Kutaisi,Espresso,11,4.0,44.0
+2024-02-18,Kutaisi,Latte,8,4.0,32.0
+2024-02-18,Kutaisi,Cappuccino,13,4.0,52.0
+2024-02-18,Kutaisi,Americano,11,3.5,38.5
+2024-02-18,Kutaisi,Mocha,12,3.0,36.0
+2024-02-18,Kutaisi,Cold Brew,9,3.0,27.0
+2024-02-18,Rustavi,Espresso,16,3.0,48.0
+2024-02-18,Rustavi,Latte,13,3.0,39.0
+2024-02-18,Rustavi,Cappuccino,9,3.5,31.5
+2024-02-18,Rustavi,Americano,8,3.0,24.0
+2024-02-18,Rustavi,Mocha,16,2.5,40.0
+2024-02-18,Rustavi,Cold Brew,13,2.5,32.5
+2024-02-19,Tbilisi,Espresso,11,2.5,27.5
+2024-02-19,Tbilisi,Latte,6,3.5,21.0
+2024-02-19,Tbilisi,Cappuccino,4,2.5,10.0
+2024-02-19,Tbilisi,Americano,13,3.0,39.0
+2024-02-19,Tbilisi,Mocha,5,2.5,12.5
+2024-02-19,Tbilisi,Cold Brew,8,3.0,24.0
+2024-02-19,Batumi,Espresso,10,3.5,35.0
+2024-02-19,Batumi,Latte,9,3.5,31.5
+2024-02-19,Batumi,Cappuccino,13,3.5,45.5
+2024-02-19,Batumi,Americano,17,3.0,51.0
+2024-02-19,Batumi,Mocha,8,2.5,20.0
+2024-02-19,Batumi,Cold Brew,16,3.5,56.0
+2024-02-19,Kutaisi,Espresso,5,3.5,17.5
+2024-02-19,Kutaisi,Latte,10,3.0,30.0
+2024-02-19,Kutaisi,Cappuccino,7,3.5,24.5
+2024-02-19,Kutaisi,Americano,9,4.0,36.0
+2024-02-19,Kutaisi,Mocha,6,4.0,24.0
+2024-02-19,Kutaisi,Cold Brew,7,3.5,24.5
+2024-02-19,Rustavi,Espresso,6,4.0,24.0
+2024-02-19,Rustavi,Latte,12,4.0,48.0
+2024-02-19,Rustavi,Cappuccino,10,3.5,35.0
+2024-02-19,Rustavi,Americano,5,4.0,20.0
+2024-02-19,Rustavi,Mocha,7,3.0,21.0
+2024-02-19,Rustavi,Cold Brew,5,4.0,20.0
+2024-02-20,Tbilisi,Espresso,10,4.0,40.0
+2024-02-20,Tbilisi,Latte,7,2.5,17.5
+2024-02-20,Tbilisi,Cappuccino,9,3.5,31.5
+2024-02-20,Tbilisi,Americano,11,2.5,27.5
+2024-02-20,Tbilisi,Mocha,9,4.0,36.0
+2024-02-20,Tbilisi,Cold Brew,10,2.5,25.0
+2024-02-20,Batumi,Espresso,12,2.5,30.0
+2024-02-20,Batumi,Latte,10,3.0,30.0
+2024-02-20,Batumi,Cappuccino,14,3.5,49.0
+2024-02-20,Batumi,Americano,10,3.0,30.0
+2024-02-20,Batumi,Mocha,11,3.0,33.0
+2024-02-20,Batumi,Cold Brew,8,2.5,20.0
+2024-02-20,Kutaisi,Espresso,12,4.0,48.0
+2024-02-20,Kutaisi,Latte,9,3.0,27.0
+2024-02-20,Kutaisi,Cappuccino,7,3.5,24.5
+2024-02-20,Kutaisi,Americano,9,3.0,27.0
+2024-02-20,Kutaisi,Mocha,13,3.5,45.5
+2024-02-20,Kutaisi,Cold Brew,10,3.5,35.0
+2024-02-20,Rustavi,Espresso,11,4.0,44.0
+2024-02-20,Rustavi,Latte,7,3.5,24.5
+2024-02-20,Rustavi,Cappuccino,12,2.5,30.0
+2024-02-20,Rustavi,Americano,14,3.5,49.0
+2024-02-20,Rustavi,Mocha,8,3.5,28.0
+2024-02-20,Rustavi,Cold Brew,9,3.0,27.0
+2024-02-21,Tbilisi,Espresso,10,4.0,40.0
+2024-02-21,Tbilisi,Latte,9,3.0,27.0
+2024-02-21,Tbilisi,Cappuccino,15,3.5,52.5
+2024-02-21,Tbilisi,Americano,9,3.0,27.0
+2024-02-21,Tbilisi,Mocha,19,3.0,57.0
+2024-02-21,Tbilisi,Cold Brew,11,3.5,38.5
+2024-02-21,Batumi,Espresso,9,3.0,27.0
+2024-02-21,Batumi,Latte,11,3.0,33.0
+2024-02-21,Batumi,Cappuccino,7,3.0,21.0
+2024-02-21,Batumi,Americano,9,4.0,36.0
+2024-02-21,Batumi,Mocha,9,4.0,36.0
+2024-02-21,Batumi,Cold Brew,12,3.0,36.0
+2024-02-21,Kutaisi,Espresso,12,4.0,48.0
+2024-02-21,Kutaisi,Latte,7,3.0,21.0
+2024-02-21,Kutaisi,Cappuccino,10,2.5,25.0
+2024-02-21,Kutaisi,Americano,10,2.5,25.0
+2024-02-21,Kutaisi,Mocha,13,2.5,32.5
+2024-02-21,Kutaisi,Cold Brew,13,2.5,32.5
+2024-02-21,Rustavi,Espresso,6,3.0,18.0
+2024-02-21,Rustavi,Latte,11,3.0,33.0
+2024-02-21,Rustavi,Cappuccino,6,3.0,18.0
+2024-02-21,Rustavi,Americano,11,2.5,27.5
+2024-02-21,Rustavi,Mocha,15,3.5,52.5
+2024-02-21,Rustavi,Cold Brew,11,2.5,27.5
+2024-02-22,Tbilisi,Espresso,10,3.5,35.0
+2024-02-22,Tbilisi,Latte,8,3.0,24.0
+2024-02-22,Tbilisi,Cappuccino,8,3.5,28.0
+2024-02-22,Tbilisi,Americano,7,3.5,24.5
+2024-02-22,Tbilisi,Mocha,15,2.5,37.5
+2024-02-22,Tbilisi,Cold Brew,7,3.5,24.5
+2024-02-22,Batumi,Espresso,12,3.0,36.0
+2024-02-22,Batumi,Latte,13,4.0,52.0
+2024-02-22,Batumi,Cappuccino,13,4.0,52.0
+2024-02-22,Batumi,Americano,12,2.5,30.0
+2024-02-22,Batumi,Mocha,16,2.5,40.0
+2024-02-22,Batumi,Cold Brew,8,4.0,32.0
+2024-02-22,Kutaisi,Espresso,7,3.0,21.0
+2024-02-22,Kutaisi,Latte,7,3.0,21.0
+2024-02-22,Kutaisi,Cappuccino,8,2.5,20.0
+2024-02-22,Kutaisi,Americano,13,3.5,45.5
+2024-02-22,Kutaisi,Mocha,5,3.0,15.0
+2024-02-22,Kutaisi,Cold Brew,9,4.0,36.0
+2024-02-22,Rustavi,Espresso,7,3.0,21.0
+2024-02-22,Rustavi,Latte,15,4.0,60.0
+2024-02-22,Rustavi,Cappuccino,7,3.0,21.0
+2024-02-22,Rustavi,Americano,4,4.0,16.0
+2024-02-22,Rustavi,Mocha,12,4.0,48.0
+2024-02-22,Rustavi,Cold Brew,7,3.5,24.5
+2024-02-23,Tbilisi,Espresso,9,4.0,36.0
+2024-02-23,Tbilisi,Latte,13,3.0,39.0
+2024-02-23,Tbilisi,Cappuccino,8,2.5,20.0
+2024-02-23,Tbilisi,Americano,7,3.0,21.0
+2024-02-23,Tbilisi,Mocha,13,4.0,52.0
+2024-02-23,Tbilisi,Cold Brew,13,3.0,39.0
+2024-02-23,Batumi,Espresso,11,4.0,44.0
+2024-02-23,Batumi,Latte,14,2.5,35.0
+2024-02-23,Batumi,Cappuccino,13,4.0,52.0
+2024-02-23,Batumi,Americano,12,2.5,30.0
+2024-02-23,Batumi,Mocha,7,4.0,28.0
+2024-02-23,Batumi,Cold Brew,8,3.0,24.0
+2024-02-23,Kutaisi,Espresso,13,4.0,52.0
+2024-02-23,Kutaisi,Latte,11,2.5,27.5
+2024-02-23,Kutaisi,Cappuccino,9,3.0,27.0
+2024-02-23,Kutaisi,Americano,12,4.0,48.0
+2024-02-23,Kutaisi,Mocha,16,4.0,64.0
+2024-02-23,Kutaisi,Cold Brew,10,4.0,40.0
+2024-02-23,Rustavi,Espresso,12,4.0,48.0
+2024-02-23,Rustavi,Latte,8,3.5,28.0
+2024-02-23,Rustavi,Cappuccino,11,2.5,27.5
+2024-02-23,Rustavi,Americano,9,3.0,27.0
+2024-02-23,Rustavi,Mocha,14,4.0,56.0
+2024-02-23,Rustavi,Cold Brew,11,2.5,27.5
+2024-02-24,Tbilisi,Espresso,18,2.5,45.0
+2024-02-24,Tbilisi,Latte,10,4.0,40.0
+2024-02-24,Tbilisi,Cappuccino,6,4.0,24.0
+2024-02-24,Tbilisi,Americano,8,3.0,24.0
+2024-02-24,Tbilisi,Mocha,11,3.5,38.5
+2024-02-24,Tbilisi,Cold Brew,9,2.5,22.5
+2024-02-24,Batumi,Espresso,5,3.5,17.5
+2024-02-24,Batumi,Latte,12,3.5,42.0
+2024-02-24,Batumi,Cappuccino,7,4.0,28.0
+2024-02-24,Batumi,Americano,8,3.0,24.0
+2024-02-24,Batumi,Mocha,15,4.0,60.0
+2024-02-24,Batumi,Cold Brew,14,3.5,49.0
+2024-02-24,Kutaisi,Espresso,8,2.5,20.0
+2024-02-24,Kutaisi,Latte,5,2.5,12.5
+2024-02-24,Kutaisi,Cappuccino,4,2.5,10.0
+2024-02-24,Kutaisi,Americano,7,2.5,17.5
+2024-02-24,Kutaisi,Mocha,8,2.5,20.0
+2024-02-24,Kutaisi,Cold Brew,6,3.0,18.0
+2024-02-24,Rustavi,Espresso,19,2.5,47.5
+2024-02-24,Rustavi,Latte,8,4.0,32.0
+2024-02-24,Rustavi,Cappuccino,8,2.5,20.0
+2024-02-24,Rustavi,Americano,7,3.0,21.0
+2024-02-24,Rustavi,Mocha,7,3.5,24.5
+2024-02-24,Rustavi,Cold Brew,12,4.0,48.0
+2024-02-25,Tbilisi,Espresso,7,3.0,21.0
+2024-02-25,Tbilisi,Latte,6,4.0,24.0
+2024-02-25,Tbilisi,Cappuccino,14,3.5,49.0
+2024-02-25,Tbilisi,Americano,5,4.0,20.0
+2024-02-25,Tbilisi,Mocha,8,3.0,24.0
+2024-02-25,Tbilisi,Cold Brew,13,3.0,39.0
+2024-02-25,Batumi,Espresso,11,3.5,38.5
+2024-02-25,Batumi,Latte,6,3.0,18.0
+2024-02-25,Batumi,Cappuccino,8,3.5,28.0
+2024-02-25,Batumi,Americano,5,4.0,20.0
+2024-02-25,Batumi,Mocha,8,3.0,24.0
+2024-02-25,Batumi,Cold Brew,10,3.5,35.0
+2024-02-25,Kutaisi,Espresso,11,4.0,44.0
+2024-02-25,Kutaisi,Latte,8,3.5,28.0
+2024-02-25,Kutaisi,Cappuccino,15,2.5,37.5
+2024-02-25,Kutaisi,Americano,7,3.5,24.5
+2024-02-25,Kutaisi,Mocha,12,2.5,30.0
+2024-02-25,Kutaisi,Cold Brew,10,4.0,40.0
+2024-02-25,Rustavi,Espresso,9,3.0,27.0
+2024-02-25,Rustavi,Latte,9,4.0,36.0
+2024-02-25,Rustavi,Cappuccino,9,3.5,31.5
+2024-02-25,Rustavi,Americano,6,3.5,21.0
+2024-02-25,Rustavi,Mocha,17,3.0,51.0
+2024-02-25,Rustavi,Cold Brew,11,3.5,38.5
+2024-02-26,Tbilisi,Espresso,10,3.0,30.0
+2024-02-26,Tbilisi,Latte,7,2.5,17.5
+2024-02-26,Tbilisi,Cappuccino,9,4.0,36.0
+2024-02-26,Tbilisi,Americano,6,3.5,21.0
+2024-02-26,Tbilisi,Mocha,7,3.0,21.0
+2024-02-26,Tbilisi,Cold Brew,7,3.5,24.5
+2024-02-26,Batumi,Espresso,13,2.5,32.5
+2024-02-26,Batumi,Latte,11,3.5,38.5
+2024-02-26,Batumi,Cappuccino,9,3.5,31.5
+2024-02-26,Batumi,Americano,9,3.5,31.5
+2024-02-26,Batumi,Mocha,10,3.5,35.0
+2024-02-26,Batumi,Cold Brew,13,3.5,45.5
+2024-02-26,Kutaisi,Espresso,12,3.5,42.0
+2024-02-26,Kutaisi,Latte,7,3.0,21.0
+2024-02-26,Kutaisi,Cappuccino,13,4.0,52.0
+2024-02-26,Kutaisi,Americano,12,3.0,36.0
+2024-02-26,Kutaisi,Mocha,10,2.5,25.0
+2024-02-26,Kutaisi,Cold Brew,5,3.0,15.0
+2024-02-26,Rustavi,Espresso,15,3.5,52.5
+2024-02-26,Rustavi,Latte,8,3.5,28.0
+2024-02-26,Rustavi,Cappuccino,10,4.0,40.0
+2024-02-26,Rustavi,Americano,13,3.0,39.0
+2024-02-26,Rustavi,Mocha,10,3.0,30.0
+2024-02-26,Rustavi,Cold Brew,13,2.5,32.5
+2024-02-27,Tbilisi,Espresso,13,2.5,32.5
+2024-02-27,Tbilisi,Latte,8,3.0,24.0
+2024-02-27,Tbilisi,Cappuccino,10,2.5,25.0
+2024-02-27,Tbilisi,Americano,3,3.0,9.0
+2024-02-27,Tbilisi,Mocha,10,2.5,25.0
+2024-02-27,Tbilisi,Cold Brew,14,3.0,42.0
+2024-02-27,Batumi,Espresso,7,4.0,28.0
+2024-02-27,Batumi,Latte,12,4.0,48.0
+2024-02-27,Batumi,Cappuccino,11,3.5,38.5
+2024-02-27,Batumi,Americano,6,3.0,18.0
+2024-02-27,Batumi,Mocha,13,4.0,52.0
+2024-02-27,Batumi,Cold Brew,12,4.0,48.0
+2024-02-27,Kutaisi,Espresso,13,3.5,45.5
+2024-02-27,Kutaisi,Latte,12,2.5,30.0
+2024-02-27,Kutaisi,Cappuccino,16,3.5,56.0
+2024-02-27,Kutaisi,Americano,4,2.5,10.0
+2024-02-27,Kutaisi,Mocha,13,2.5,32.5
+2024-02-27,Kutaisi,Cold Brew,13,3.0,39.0
+2024-02-27,Rustavi,Espresso,8,2.5,20.0
+2024-02-27,Rustavi,Latte,16,4.0,64.0
+2024-02-27,Rustavi,Cappuccino,11,4.0,44.0
+2024-02-27,Rustavi,Americano,8,3.0,24.0
+2024-02-27,Rustavi,Mocha,12,4.0,48.0
+2024-02-27,Rustavi,Cold Brew,12,3.5,42.0
+2024-02-28,Tbilisi,Espresso,8,2.5,20.0
+2024-02-28,Tbilisi,Latte,9,2.5,22.5
+2024-02-28,Tbilisi,Cappuccino,8,4.0,32.0
+2024-02-28,Tbilisi,Americano,16,4.0,64.0
+2024-02-28,Tbilisi,Mocha,9,2.5,22.5
+2024-02-28,Tbilisi,Cold Brew,4,3.5,14.0
+2024-02-28,Batumi,Espresso,6,3.0,18.0
+2024-02-28,Batumi,Latte,9,4.0,36.0
+2024-02-28,Batumi,Cappuccino,7,3.5,24.5
+2024-02-28,Batumi,Americano,13,3.5,45.5
+2024-02-28,Batumi,Mocha,13,2.5,32.5
+2024-02-28,Batumi,Cold Brew,12,3.5,42.0
+2024-02-28,Kutaisi,Espresso,9,3.0,27.0
+2024-02-28,Kutaisi,Latte,8,2.5,20.0
+2024-02-28,Kutaisi,Cappuccino,8,3.5,28.0
+2024-02-28,Kutaisi,Americano,7,4.0,28.0
+2024-02-28,Kutaisi,Mocha,9,2.5,22.5
+2024-02-28,Kutaisi,Cold Brew,6,2.5,15.0
+2024-02-28,Rustavi,Espresso,10,2.5,25.0
+2024-02-28,Rustavi,Latte,10,4.0,40.0
+2024-02-28,Rustavi,Cappuccino,11,3.5,38.5
+2024-02-28,Rustavi,Americano,6,2.5,15.0
+2024-02-28,Rustavi,Mocha,10,2.5,25.0
+2024-02-28,Rustavi,Cold Brew,8,3.5,28.0
+2024-02-29,Tbilisi,Espresso,13,3.5,45.5
+2024-02-29,Tbilisi,Latte,9,3.0,27.0
+2024-02-29,Tbilisi,Cappuccino,13,2.5,32.5
+2024-02-29,Tbilisi,Americano,11,2.5,27.5
+2024-02-29,Tbilisi,Mocha,7,3.5,24.5
+2024-02-29,Tbilisi,Cold Brew,11,2.5,27.5
+2024-02-29,Batumi,Espresso,10,3.5,35.0
+2024-02-29,Batumi,Latte,6,3.5,21.0
+2024-02-29,Batumi,Cappuccino,9,2.5,22.5
+2024-02-29,Batumi,Americano,3,4.0,12.0
+2024-02-29,Batumi,Mocha,12,4.0,48.0
+2024-02-29,Batumi,Cold Brew,7,3.5,24.5
+2024-02-29,Kutaisi,Espresso,7,4.0,28.0
+2024-02-29,Kutaisi,Latte,9,3.5,31.5
+2024-02-29,Kutaisi,Cappuccino,13,2.5,32.5
+2024-02-29,Kutaisi,Americano,8,3.5,28.0
+2024-02-29,Kutaisi,Mocha,13,3.5,45.5
+2024-02-29,Kutaisi,Cold Brew,7,3.5,24.5
+2024-02-29,Rustavi,Espresso,10,4.0,40.0
+2024-02-29,Rustavi,Latte,14,3.5,49.0
+2024-02-29,Rustavi,Cappuccino,9,3.0,27.0
+2024-02-29,Rustavi,Americano,13,3.5,45.5
+2024-02-29,Rustavi,Mocha,10,4.0,40.0
+2024-02-29,Rustavi,Cold Brew,16,2.5,40.0
+2024-03-01,Tbilisi,Espresso,16,2.5,40.0
+2024-03-01,Tbilisi,Latte,10,3.0,30.0
+2024-03-01,Tbilisi,Cappuccino,10,4.0,40.0
+2024-03-01,Tbilisi,Americano,6,3.0,18.0
+2024-03-01,Tbilisi,Mocha,19,2.5,47.5
+2024-03-01,Tbilisi,Cold Brew,12,2.5,30.0
+2024-03-01,Batumi,Espresso,9,3.5,31.5
+2024-03-01,Batumi,Latte,12,4.0,48.0
+2024-03-01,Batumi,Cappuccino,8,2.5,20.0
+2024-03-01,Batumi,Americano,9,2.5,22.5
+2024-03-01,Batumi,Mocha,13,2.5,32.5
+2024-03-01,Batumi,Cold Brew,9,3.0,27.0
+2024-03-01,Kutaisi,Espresso,5,2.5,12.5
+2024-03-01,Kutaisi,Latte,9,3.0,27.0
+2024-03-01,Kutaisi,Cappuccino,11,2.5,27.5
+2024-03-01,Kutaisi,Americano,9,3.5,31.5
+2024-03-01,Kutaisi,Mocha,10,3.0,30.0
+2024-03-01,Kutaisi,Cold Brew,10,4.0,40.0
+2024-03-01,Rustavi,Espresso,18,4.0,72.0
+2024-03-01,Rustavi,Latte,15,4.0,60.0
+2024-03-01,Rustavi,Cappuccino,11,4.0,44.0
+2024-03-01,Rustavi,Americano,13,4.0,52.0
+2024-03-01,Rustavi,Mocha,12,3.5,42.0
+2024-03-01,Rustavi,Cold Brew,10,2.5,25.0
+2024-03-02,Tbilisi,Espresso,9,2.5,22.5
+2024-03-02,Tbilisi,Latte,15,4.0,60.0
+2024-03-02,Tbilisi,Cappuccino,14,2.5,35.0
+2024-03-02,Tbilisi,Americano,10,4.0,40.0
+2024-03-02,Tbilisi,Mocha,11,2.5,27.5
+2024-03-02,Tbilisi,Cold Brew,19,2.5,47.5
+2024-03-02,Batumi,Espresso,12,2.5,30.0
+2024-03-02,Batumi,Latte,17,3.0,51.0
+2024-03-02,Batumi,Cappuccino,13,4.0,52.0
+2024-03-02,Batumi,Americano,11,3.0,33.0
+2024-03-02,Batumi,Mocha,12,4.0,48.0
+2024-03-02,Batumi,Cold Brew,16,2.5,40.0
+2024-03-02,Kutaisi,Espresso,11,2.5,27.5
+2024-03-02,Kutaisi,Latte,8,3.0,24.0
+2024-03-02,Kutaisi,Cappuccino,9,3.0,27.0
+2024-03-02,Kutaisi,Americano,6,3.5,21.0
+2024-03-02,Kutaisi,Mocha,5,2.5,12.5
+2024-03-02,Kutaisi,Cold Brew,5,4.0,20.0
+2024-03-02,Rustavi,Espresso,12,2.5,30.0
+2024-03-02,Rustavi,Latte,6,3.5,21.0
+2024-03-02,Rustavi,Cappuccino,20,2.5,50.0
+2024-03-02,Rustavi,Americano,16,2.5,40.0
+2024-03-02,Rustavi,Mocha,3,4.0,12.0
+2024-03-02,Rustavi,Cold Brew,11,2.5,27.5
+2024-03-03,Tbilisi,Espresso,8,3.5,28.0
+2024-03-03,Tbilisi,Latte,11,3.5,38.5
+2024-03-03,Tbilisi,Cappuccino,8,3.5,28.0
+2024-03-03,Tbilisi,Americano,8,3.0,24.0
+2024-03-03,Tbilisi,Mocha,9,3.5,31.5
+2024-03-03,Tbilisi,Cold Brew,7,2.5,17.5
+2024-03-03,Batumi,Espresso,5,4.0,20.0
+2024-03-03,Batumi,Latte,8,3.0,24.0
+2024-03-03,Batumi,Cappuccino,5,3.5,17.5
+2024-03-03,Batumi,Americano,13,3.0,39.0
+2024-03-03,Batumi,Mocha,10,2.5,25.0
+2024-03-03,Batumi,Cold Brew,8,3.0,24.0
+2024-03-03,Kutaisi,Espresso,10,2.5,25.0
+2024-03-03,Kutaisi,Latte,11,3.5,38.5
+2024-03-03,Kutaisi,Cappuccino,13,3.5,45.5
+2024-03-03,Kutaisi,Americano,6,4.0,24.0
+2024-03-03,Kutaisi,Mocha,9,3.5,31.5
+2024-03-03,Kutaisi,Cold Brew,12,4.0,48.0
+2024-03-03,Rustavi,Espresso,12,2.5,30.0
+2024-03-03,Rustavi,Latte,11,2.5,27.5
+2024-03-03,Rustavi,Cappuccino,8,2.5,20.0
+2024-03-03,Rustavi,Americano,9,2.5,22.5
+2024-03-03,Rustavi,Mocha,9,2.5,22.5
+2024-03-03,Rustavi,Cold Brew,12,3.5,42.0
+2024-03-04,Tbilisi,Espresso,12,3.5,42.0
+2024-03-04,Tbilisi,Latte,12,3.0,36.0
+2024-03-04,Tbilisi,Cappuccino,14,3.0,42.0
+2024-03-04,Tbilisi,Americano,10,3.0,30.0
+2024-03-04,Tbilisi,Mocha,9,3.5,31.5
+2024-03-04,Tbilisi,Cold Brew,8,3.0,24.0
+2024-03-04,Batumi,Espresso,14,2.5,35.0
+2024-03-04,Batumi,Latte,16,3.5,56.0
+2024-03-04,Batumi,Cappuccino,13,3.0,39.0
+2024-03-04,Batumi,Americano,13,4.0,52.0
+2024-03-04,Batumi,Mocha,13,3.5,45.5
+2024-03-04,Batumi,Cold Brew,8,3.0,24.0
+2024-03-04,Kutaisi,Espresso,13,3.0,39.0
+2024-03-04,Kutaisi,Latte,14,3.5,49.0
+2024-03-04,Kutaisi,Cappuccino,8,3.5,28.0
+2024-03-04,Kutaisi,Americano,11,3.0,33.0
+2024-03-04,Kutaisi,Mocha,12,4.0,48.0
+2024-03-04,Kutaisi,Cold Brew,9,3.5,31.5
+2024-03-04,Rustavi,Espresso,13,3.0,39.0
+2024-03-04,Rustavi,Latte,12,3.5,42.0
+2024-03-04,Rustavi,Cappuccino,11,3.0,33.0
+2024-03-04,Rustavi,Americano,7,3.0,21.0
+2024-03-04,Rustavi,Mocha,6,3.5,21.0
+2024-03-04,Rustavi,Cold Brew,14,3.5,49.0
+2024-03-05,Tbilisi,Espresso,12,3.5,42.0
+2024-03-05,Tbilisi,Latte,8,4.0,32.0
+2024-03-05,Tbilisi,Cappuccino,7,3.0,21.0
+2024-03-05,Tbilisi,Americano,11,4.0,44.0
+2024-03-05,Tbilisi,Mocha,10,3.0,30.0
+2024-03-05,Tbilisi,Cold Brew,8,3.5,28.0
+2024-03-05,Batumi,Espresso,18,2.5,45.0
+2024-03-05,Batumi,Latte,15,4.0,60.0
+2024-03-05,Batumi,Cappuccino,11,3.0,33.0
+2024-03-05,Batumi,Americano,4,4.0,16.0
+2024-03-05,Batumi,Mocha,11,2.5,27.5
+2024-03-05,Batumi,Cold Brew,15,3.0,45.0
+2024-03-05,Kutaisi,Espresso,6,4.0,24.0
+2024-03-05,Kutaisi,Latte,8,4.0,32.0
+2024-03-05,Kutaisi,Cappuccino,13,4.0,52.0
+2024-03-05,Kutaisi,Americano,8,2.5,20.0
+2024-03-05,Kutaisi,Mocha,8,4.0,32.0
+2024-03-05,Kutaisi,Cold Brew,12,3.0,36.0
+2024-03-05,Rustavi,Espresso,11,4.0,44.0
+2024-03-05,Rustavi,Latte,12,3.0,36.0
+2024-03-05,Rustavi,Cappuccino,12,3.0,36.0
+2024-03-05,Rustavi,Americano,8,4.0,32.0
+2024-03-05,Rustavi,Mocha,15,3.5,52.5
+2024-03-05,Rustavi,Cold Brew,5,4.0,20.0
+2024-03-06,Tbilisi,Espresso,12,4.0,48.0
+2024-03-06,Tbilisi,Latte,5,3.5,17.5
+2024-03-06,Tbilisi,Cappuccino,12,3.5,42.0
+2024-03-06,Tbilisi,Americano,7,2.5,17.5
+2024-03-06,Tbilisi,Mocha,10,3.0,30.0
+2024-03-06,Tbilisi,Cold Brew,10,3.0,30.0
+2024-03-06,Batumi,Espresso,10,3.5,35.0
+2024-03-06,Batumi,Latte,11,4.0,44.0
+2024-03-06,Batumi,Cappuccino,7,2.5,17.5
+2024-03-06,Batumi,Americano,8,3.5,28.0
+2024-03-06,Batumi,Mocha,9,3.5,31.5
+2024-03-06,Batumi,Cold Brew,11,2.5,27.5
+2024-03-06,Kutaisi,Espresso,8,2.5,20.0
+2024-03-06,Kutaisi,Latte,9,3.0,27.0
+2024-03-06,Kutaisi,Cappuccino,12,4.0,48.0
+2024-03-06,Kutaisi,Americano,6,2.5,15.0
+2024-03-06,Kutaisi,Mocha,6,3.5,21.0
+2024-03-06,Kutaisi,Cold Brew,12,2.5,30.0
+2024-03-06,Rustavi,Espresso,10,3.0,30.0
+2024-03-06,Rustavi,Latte,11,3.0,33.0
+2024-03-06,Rustavi,Cappuccino,9,3.5,31.5
+2024-03-06,Rustavi,Americano,14,3.0,42.0
+2024-03-06,Rustavi,Mocha,5,3.5,17.5
+2024-03-06,Rustavi,Cold Brew,11,3.0,33.0
+2024-03-07,Tbilisi,Espresso,5,4.0,20.0
+2024-03-07,Tbilisi,Latte,5,3.5,17.5
+2024-03-07,Tbilisi,Cappuccino,10,4.0,40.0
+2024-03-07,Tbilisi,Americano,11,4.0,44.0
+2024-03-07,Tbilisi,Mocha,12,3.0,36.0
+2024-03-07,Tbilisi,Cold Brew,8,4.0,32.0
+2024-03-07,Batumi,Espresso,11,2.5,27.5
+2024-03-07,Batumi,Latte,9,3.0,27.0
+2024-03-07,Batumi,Cappuccino,10,3.0,30.0
+2024-03-07,Batumi,Americano,12,3.0,36.0
+2024-03-07,Batumi,Mocha,9,3.0,27.0
+2024-03-07,Batumi,Cold Brew,12,4.0,48.0
+2024-03-07,Kutaisi,Espresso,12,3.0,36.0
+2024-03-07,Kutaisi,Latte,13,3.0,39.0
+2024-03-07,Kutaisi,Cappuccino,7,2.5,17.5
+2024-03-07,Kutaisi,Americano,9,4.0,36.0
+2024-03-07,Kutaisi,Mocha,8,3.0,24.0
+2024-03-07,Kutaisi,Cold Brew,6,2.5,15.0
+2024-03-07,Rustavi,Espresso,8,2.5,20.0
+2024-03-07,Rustavi,Latte,9,3.0,27.0
+2024-03-07,Rustavi,Cappuccino,12,3.0,36.0
+2024-03-07,Rustavi,Americano,11,4.0,44.0
+2024-03-07,Rustavi,Mocha,6,3.0,18.0
+2024-03-07,Rustavi,Cold Brew,11,4.0,44.0
+2024-03-08,Tbilisi,Espresso,9,2.5,22.5
+2024-03-08,Tbilisi,Latte,6,4.0,24.0
+2024-03-08,Tbilisi,Cappuccino,7,3.0,21.0
+2024-03-08,Tbilisi,Americano,10,3.0,30.0
+2024-03-08,Tbilisi,Mocha,14,3.5,49.0
+2024-03-08,Tbilisi,Cold Brew,8,3.5,28.0
+2024-03-08,Batumi,Espresso,10,3.5,35.0
+2024-03-08,Batumi,Latte,9,3.0,27.0
+2024-03-08,Batumi,Cappuccino,6,2.5,15.0
+2024-03-08,Batumi,Americano,9,3.0,27.0
+2024-03-08,Batumi,Mocha,13,3.5,45.5
+2024-03-08,Batumi,Cold Brew,13,3.5,45.5
+2024-03-08,Kutaisi,Espresso,10,3.5,35.0
+2024-03-08,Kutaisi,Latte,13,4.0,52.0
+2024-03-08,Kutaisi,Cappuccino,6,3.5,21.0
+2024-03-08,Kutaisi,Americano,19,3.5,66.5
+2024-03-08,Kutaisi,Mocha,12,4.0,48.0
+2024-03-08,Kutaisi,Cold Brew,9,3.5,31.5
+2024-03-08,Rustavi,Espresso,12,4.0,48.0
+2024-03-08,Rustavi,Latte,5,2.5,12.5
+2024-03-08,Rustavi,Cappuccino,8,4.0,32.0
+2024-03-08,Rustavi,Americano,9,4.0,36.0
+2024-03-08,Rustavi,Mocha,9,3.5,31.5
+2024-03-08,Rustavi,Cold Brew,9,3.5,31.5
+2024-03-09,Tbilisi,Espresso,9,2.5,22.5
+2024-03-09,Tbilisi,Latte,11,3.0,33.0
+2024-03-09,Tbilisi,Cappuccino,13,3.5,45.5
+2024-03-09,Tbilisi,Americano,13,4.0,52.0
+2024-03-09,Tbilisi,Mocha,13,3.5,45.5
+2024-03-09,Tbilisi,Cold Brew,10,3.0,30.0
+2024-03-09,Batumi,Espresso,7,3.5,24.5
+2024-03-09,Batumi,Latte,11,3.0,33.0
+2024-03-09,Batumi,Cappuccino,4,3.0,12.0
+2024-03-09,Batumi,Americano,13,3.0,39.0
+2024-03-09,Batumi,Mocha,7,4.0,28.0
+2024-03-09,Batumi,Cold Brew,4,4.0,16.0
+2024-03-09,Kutaisi,Espresso,6,3.0,18.0
+2024-03-09,Kutaisi,Latte,7,4.0,28.0
+2024-03-09,Kutaisi,Cappuccino,3,4.0,12.0
+2024-03-09,Kutaisi,Americano,10,4.0,40.0
+2024-03-09,Kutaisi,Mocha,9,2.5,22.5
+2024-03-09,Kutaisi,Cold Brew,6,4.0,24.0
+2024-03-09,Rustavi,Espresso,4,3.5,14.0
+2024-03-09,Rustavi,Latte,11,3.5,38.5
+2024-03-09,Rustavi,Cappuccino,14,3.5,49.0
+2024-03-09,Rustavi,Americano,18,3.0,54.0
+2024-03-09,Rustavi,Mocha,5,2.5,12.5
+2024-03-09,Rustavi,Cold Brew,7,3.0,21.0
+2024-03-10,Tbilisi,Espresso,11,4.0,44.0
+2024-03-10,Tbilisi,Latte,8,3.5,28.0
+2024-03-10,Tbilisi,Cappuccino,6,2.5,15.0
+2024-03-10,Tbilisi,Americano,6,3.0,18.0
+2024-03-10,Tbilisi,Mocha,7,4.0,28.0
+2024-03-10,Tbilisi,Cold Brew,17,3.5,59.5
+2024-03-10,Batumi,Espresso,9,4.0,36.0
+2024-03-10,Batumi,Latte,4,3.5,14.0
+2024-03-10,Batumi,Cappuccino,12,3.5,42.0
+2024-03-10,Batumi,Americano,9,2.5,22.5
+2024-03-10,Batumi,Mocha,9,2.5,22.5
+2024-03-10,Batumi,Cold Brew,8,3.0,24.0
+2024-03-10,Kutaisi,Espresso,11,3.5,38.5
+2024-03-10,Kutaisi,Latte,8,4.0,32.0
+2024-03-10,Kutaisi,Cappuccino,7,3.5,24.5
+2024-03-10,Kutaisi,Americano,12,3.0,36.0
+2024-03-10,Kutaisi,Mocha,4,2.5,10.0
+2024-03-10,Kutaisi,Cold Brew,8,2.5,20.0
+2024-03-10,Rustavi,Espresso,7,3.5,24.5
+2024-03-10,Rustavi,Latte,7,4.0,28.0
+2024-03-10,Rustavi,Cappuccino,8,3.5,28.0
+2024-03-10,Rustavi,Americano,9,4.0,36.0
+2024-03-10,Rustavi,Mocha,14,4.0,56.0
+2024-03-10,Rustavi,Cold Brew,12,3.5,42.0
+2024-03-11,Tbilisi,Espresso,9,2.5,22.5
+2024-03-11,Tbilisi,Latte,9,3.0,27.0
+2024-03-11,Tbilisi,Cappuccino,12,4.0,48.0
+2024-03-11,Tbilisi,Americano,6,4.0,24.0
+2024-03-11,Tbilisi,Mocha,7,2.5,17.5
+2024-03-11,Tbilisi,Cold Brew,12,3.0,36.0
+2024-03-11,Batumi,Espresso,9,2.5,22.5
+2024-03-11,Batumi,Latte,11,3.0,33.0
+2024-03-11,Batumi,Cappuccino,6,2.5,15.0
+2024-03-11,Batumi,Americano,10,2.5,25.0
+2024-03-11,Batumi,Mocha,7,2.5,17.5
+2024-03-11,Batumi,Cold Brew,13,3.0,39.0
+2024-03-11,Kutaisi,Espresso,7,3.5,24.5
+2024-03-11,Kutaisi,Latte,11,3.5,38.5
+2024-03-11,Kutaisi,Cappuccino,12,4.0,48.0
+2024-03-11,Kutaisi,Americano,10,2.5,25.0
+2024-03-11,Kutaisi,Mocha,8,3.0,24.0
+2024-03-11,Kutaisi,Cold Brew,11,3.0,33.0
+2024-03-11,Rustavi,Espresso,8,4.0,32.0
+2024-03-11,Rustavi,Latte,10,4.0,40.0
+2024-03-11,Rustavi,Cappuccino,12,4.0,48.0
+2024-03-11,Rustavi,Americano,6,2.5,15.0
+2024-03-11,Rustavi,Mocha,5,2.5,12.5
+2024-03-11,Rustavi,Cold Brew,10,4.0,40.0
+2024-03-12,Tbilisi,Espresso,10,3.5,35.0
+2024-03-12,Tbilisi,Latte,7,4.0,28.0
+2024-03-12,Tbilisi,Cappuccino,14,3.0,42.0
+2024-03-12,Tbilisi,Americano,13,4.0,52.0
+2024-03-12,Tbilisi,Mocha,11,3.5,38.5
+2024-03-12,Tbilisi,Cold Brew,8,2.5,20.0
+2024-03-12,Batumi,Espresso,7,4.0,28.0
+2024-03-12,Batumi,Latte,10,2.5,25.0
+2024-03-12,Batumi,Cappuccino,9,2.5,22.5
+2024-03-12,Batumi,Americano,5,3.0,15.0
+2024-03-12,Batumi,Mocha,6,2.5,15.0
+2024-03-12,Batumi,Cold Brew,7,3.0,21.0
+2024-03-12,Kutaisi,Espresso,9,2.5,22.5
+2024-03-12,Kutaisi,Latte,16,3.0,48.0
+2024-03-12,Kutaisi,Cappuccino,10,2.5,25.0
+2024-03-12,Kutaisi,Americano,12,3.0,36.0
+2024-03-12,Kutaisi,Mocha,12,3.0,36.0
+2024-03-12,Kutaisi,Cold Brew,14,4.0,56.0
+2024-03-12,Rustavi,Espresso,7,3.0,21.0
+2024-03-12,Rustavi,Latte,10,3.0,30.0
+2024-03-12,Rustavi,Cappuccino,7,4.0,28.0
+2024-03-12,Rustavi,Americano,13,3.5,45.5
+2024-03-12,Rustavi,Mocha,9,4.0,36.0
+2024-03-12,Rustavi,Cold Brew,16,2.5,40.0
+2024-03-13,Tbilisi,Espresso,9,3.0,27.0
+2024-03-13,Tbilisi,Latte,12,3.5,42.0
+2024-03-13,Tbilisi,Cappuccino,11,3.0,33.0
+2024-03-13,Tbilisi,Americano,10,3.5,35.0
+2024-03-13,Tbilisi,Mocha,9,2.5,22.5
+2024-03-13,Tbilisi,Cold Brew,12,3.5,42.0
+2024-03-13,Batumi,Espresso,9,4.0,36.0
+2024-03-13,Batumi,Latte,7,3.5,24.5
+2024-03-13,Batumi,Cappuccino,15,3.0,45.0
+2024-03-13,Batumi,Americano,14,2.5,35.0
+2024-03-13,Batumi,Mocha,17,3.0,51.0
+2024-03-13,Batumi,Cold Brew,8,4.0,32.0
+2024-03-13,Kutaisi,Espresso,10,4.0,40.0
+2024-03-13,Kutaisi,Latte,7,3.5,24.5
+2024-03-13,Kutaisi,Cappuccino,8,4.0,32.0
+2024-03-13,Kutaisi,Americano,6,3.0,18.0
+2024-03-13,Kutaisi,Mocha,8,3.5,28.0
+2024-03-13,Kutaisi,Cold Brew,11,3.5,38.5
+2024-03-13,Rustavi,Espresso,6,2.5,15.0
+2024-03-13,Rustavi,Latte,8,2.5,20.0
+2024-03-13,Rustavi,Cappuccino,17,3.5,59.5
+2024-03-13,Rustavi,Americano,14,3.0,42.0
+2024-03-13,Rustavi,Mocha,12,3.5,42.0
+2024-03-13,Rustavi,Cold Brew,12,3.5,42.0
+2024-03-14,Tbilisi,Espresso,14,2.5,35.0
+2024-03-14,Tbilisi,Latte,10,2.5,25.0
+2024-03-14,Tbilisi,Cappuccino,9,3.0,27.0
+2024-03-14,Tbilisi,Americano,14,3.0,42.0
+2024-03-14,Tbilisi,Mocha,7,4.0,28.0
+2024-03-14,Tbilisi,Cold Brew,10,3.5,35.0
+2024-03-14,Batumi,Espresso,10,4.0,40.0
+2024-03-14,Batumi,Latte,12,3.0,36.0
+2024-03-14,Batumi,Cappuccino,9,3.5,31.5
+2024-03-14,Batumi,Americano,12,4.0,48.0
+2024-03-14,Batumi,Mocha,9,3.5,31.5
+2024-03-14,Batumi,Cold Brew,12,2.5,30.0
+2024-03-14,Kutaisi,Espresso,8,4.0,32.0
+2024-03-14,Kutaisi,Latte,16,2.5,40.0
+2024-03-14,Kutaisi,Cappuccino,13,3.5,45.5
+2024-03-14,Kutaisi,Americano,6,2.5,15.0
+2024-03-14,Kutaisi,Mocha,9,3.0,27.0
+2024-03-14,Kutaisi,Cold Brew,8,3.5,28.0
+2024-03-14,Rustavi,Espresso,9,2.5,22.5
+2024-03-14,Rustavi,Latte,10,3.0,30.0
+2024-03-14,Rustavi,Cappuccino,7,3.5,24.5
+2024-03-14,Rustavi,Americano,12,3.5,42.0
+2024-03-14,Rustavi,Mocha,9,4.0,36.0
+2024-03-14,Rustavi,Cold Brew,13,3.5,45.5
+2024-03-15,Tbilisi,Espresso,13,3.5,45.5
+2024-03-15,Tbilisi,Latte,9,2.5,22.5
+2024-03-15,Tbilisi,Cappuccino,7,2.5,17.5
+2024-03-15,Tbilisi,Americano,10,4.0,40.0
+2024-03-15,Tbilisi,Mocha,9,2.5,22.5
+2024-03-15,Tbilisi,Cold Brew,8,4.0,32.0
+2024-03-15,Batumi,Espresso,7,2.5,17.5
+2024-03-15,Batumi,Latte,7,4.0,28.0
+2024-03-15,Batumi,Cappuccino,12,3.0,36.0
+2024-03-15,Batumi,Americano,6,2.5,15.0
+2024-03-15,Batumi,Mocha,9,2.5,22.5
+2024-03-15,Batumi,Cold Brew,10,3.0,30.0
+2024-03-15,Kutaisi,Espresso,9,4.0,36.0
+2024-03-15,Kutaisi,Latte,12,4.0,48.0
+2024-03-15,Kutaisi,Cappuccino,7,3.0,21.0
+2024-03-15,Kutaisi,Americano,7,2.5,17.5
+2024-03-15,Kutaisi,Mocha,9,2.5,22.5
+2024-03-15,Kutaisi,Cold Brew,8,3.0,24.0
+2024-03-15,Rustavi,Espresso,12,4.0,48.0
+2024-03-15,Rustavi,Latte,13,3.0,39.0
+2024-03-15,Rustavi,Cappuccino,14,2.5,35.0
+2024-03-15,Rustavi,Americano,12,4.0,48.0
+2024-03-15,Rustavi,Mocha,8,4.0,32.0
+2024-03-15,Rustavi,Cold Brew,7,2.5,17.5
+2024-03-16,Tbilisi,Espresso,4,2.5,10.0
+2024-03-16,Tbilisi,Latte,10,2.5,25.0
+2024-03-16,Tbilisi,Cappuccino,9,4.0,36.0
+2024-03-16,Tbilisi,Americano,10,2.5,25.0
+2024-03-16,Tbilisi,Mocha,4,3.5,14.0
+2024-03-16,Tbilisi,Cold Brew,8,4.0,32.0
+2024-03-16,Batumi,Espresso,6,3.0,18.0
+2024-03-16,Batumi,Latte,6,3.5,21.0
+2024-03-16,Batumi,Cappuccino,15,2.5,37.5
+2024-03-16,Batumi,Americano,13,4.0,52.0
+2024-03-16,Batumi,Mocha,15,3.0,45.0
+2024-03-16,Batumi,Cold Brew,8,3.5,28.0
+2024-03-16,Kutaisi,Espresso,9,3.0,27.0
+2024-03-16,Kutaisi,Latte,10,2.5,25.0
+2024-03-16,Kutaisi,Cappuccino,12,3.5,42.0
+2024-03-16,Kutaisi,Americano,8,4.0,32.0
+2024-03-16,Kutaisi,Mocha,11,3.0,33.0
+2024-03-16,Kutaisi,Cold Brew,10,2.5,25.0
+2024-03-16,Rustavi,Espresso,9,2.5,22.5
+2024-03-16,Rustavi,Latte,8,4.0,32.0
+2024-03-16,Rustavi,Cappuccino,6,2.5,15.0
+2024-03-16,Rustavi,Americano,17,3.5,59.5
+2024-03-16,Rustavi,Mocha,13,3.0,39.0
+2024-03-16,Rustavi,Cold Brew,13,2.5,32.5
+2024-03-17,Tbilisi,Espresso,11,3.0,33.0
+2024-03-17,Tbilisi,Latte,11,3.5,38.5
+2024-03-17,Tbilisi,Cappuccino,4,2.5,10.0
+2024-03-17,Tbilisi,Americano,8,4.0,32.0
+2024-03-17,Tbilisi,Mocha,9,4.0,36.0
+2024-03-17,Tbilisi,Cold Brew,11,3.5,38.5
+2024-03-17,Batumi,Espresso,9,4.0,36.0
+2024-03-17,Batumi,Latte,7,4.0,28.0
+2024-03-17,Batumi,Cappuccino,8,3.5,28.0
+2024-03-17,Batumi,Americano,11,3.0,33.0
+2024-03-17,Batumi,Mocha,9,3.0,27.0
+2024-03-17,Batumi,Cold Brew,7,3.5,24.5
+2024-03-17,Kutaisi,Espresso,13,3.5,45.5
+2024-03-17,Kutaisi,Latte,8,2.5,20.0
+2024-03-17,Kutaisi,Cappuccino,8,3.0,24.0
+2024-03-17,Kutaisi,Americano,11,4.0,44.0
+2024-03-17,Kutaisi,Mocha,9,4.0,36.0
+2024-03-17,Kutaisi,Cold Brew,6,2.5,15.0
+2024-03-17,Rustavi,Espresso,6,3.0,18.0
+2024-03-17,Rustavi,Latte,16,2.5,40.0
+2024-03-17,Rustavi,Cappuccino,19,3.5,66.5
+2024-03-17,Rustavi,Americano,12,3.5,42.0
+2024-03-17,Rustavi,Mocha,14,3.5,49.0
+2024-03-17,Rustavi,Cold Brew,10,3.0,30.0
+2024-03-18,Tbilisi,Espresso,8,2.5,20.0
+2024-03-18,Tbilisi,Latte,13,4.0,52.0
+2024-03-18,Tbilisi,Cappuccino,17,4.0,68.0
+2024-03-18,Tbilisi,Americano,3,3.0,9.0
+2024-03-18,Tbilisi,Mocha,10,3.0,30.0
+2024-03-18,Tbilisi,Cold Brew,9,3.0,27.0
+2024-03-18,Batumi,Espresso,18,3.5,63.0
+2024-03-18,Batumi,Latte,10,4.0,40.0
+2024-03-18,Batumi,Cappuccino,15,3.5,52.5
+2024-03-18,Batumi,Americano,8,2.5,20.0
+2024-03-18,Batumi,Mocha,14,3.0,42.0
+2024-03-18,Batumi,Cold Brew,11,2.5,27.5
+2024-03-18,Kutaisi,Espresso,9,3.0,27.0
+2024-03-18,Kutaisi,Latte,9,2.5,22.5
+2024-03-18,Kutaisi,Cappuccino,9,3.0,27.0
+2024-03-18,Kutaisi,Americano,9,3.0,27.0
+2024-03-18,Kutaisi,Mocha,7,3.5,24.5
+2024-03-18,Kutaisi,Cold Brew,10,3.0,30.0
+2024-03-18,Rustavi,Espresso,8,4.0,32.0
+2024-03-18,Rustavi,Latte,10,3.5,35.0
+2024-03-18,Rustavi,Cappuccino,17,4.0,68.0
+2024-03-18,Rustavi,Americano,10,3.5,35.0
+2024-03-18,Rustavi,Mocha,10,2.5,25.0
+2024-03-18,Rustavi,Cold Brew,7,3.0,21.0
+2024-03-19,Tbilisi,Espresso,6,2.5,15.0
+2024-03-19,Tbilisi,Latte,10,3.0,30.0
+2024-03-19,Tbilisi,Cappuccino,12,3.5,42.0
+2024-03-19,Tbilisi,Americano,12,2.5,30.0
+2024-03-19,Tbilisi,Mocha,8,4.0,32.0
+2024-03-19,Tbilisi,Cold Brew,5,3.0,15.0
+2024-03-19,Batumi,Espresso,13,3.5,45.5
+2024-03-19,Batumi,Latte,9,4.0,36.0
+2024-03-19,Batumi,Cappuccino,14,3.5,49.0
+2024-03-19,Batumi,Americano,14,4.0,56.0
+2024-03-19,Batumi,Mocha,7,3.0,21.0
+2024-03-19,Batumi,Cold Brew,10,4.0,40.0
+2024-03-19,Kutaisi,Espresso,7,4.0,28.0
+2024-03-19,Kutaisi,Latte,12,2.5,30.0
+2024-03-19,Kutaisi,Cappuccino,17,2.5,42.5
+2024-03-19,Kutaisi,Americano,16,3.0,48.0
+2024-03-19,Kutaisi,Mocha,7,2.5,17.5
+2024-03-19,Kutaisi,Cold Brew,12,4.0,48.0
+2024-03-19,Rustavi,Espresso,8,3.5,28.0
+2024-03-19,Rustavi,Latte,11,4.0,44.0
+2024-03-19,Rustavi,Cappuccino,6,3.5,21.0
+2024-03-19,Rustavi,Americano,13,2.5,32.5
+2024-03-19,Rustavi,Mocha,7,2.5,17.5
+2024-03-19,Rustavi,Cold Brew,11,4.0,44.0
+2024-03-20,Tbilisi,Espresso,10,2.5,25.0
+2024-03-20,Tbilisi,Latte,8,3.0,24.0
+2024-03-20,Tbilisi,Cappuccino,7,4.0,28.0
+2024-03-20,Tbilisi,Americano,7,4.0,28.0
+2024-03-20,Tbilisi,Mocha,9,3.5,31.5
+2024-03-20,Tbilisi,Cold Brew,9,3.0,27.0
+2024-03-20,Batumi,Espresso,10,3.5,35.0
+2024-03-20,Batumi,Latte,10,4.0,40.0
+2024-03-20,Batumi,Cappuccino,12,3.0,36.0
+2024-03-20,Batumi,Americano,10,4.0,40.0
+2024-03-20,Batumi,Mocha,15,3.0,45.0
+2024-03-20,Batumi,Cold Brew,10,4.0,40.0
+2024-03-20,Kutaisi,Espresso,10,2.5,25.0
+2024-03-20,Kutaisi,Latte,11,3.0,33.0
+2024-03-20,Kutaisi,Cappuccino,10,3.5,35.0
+2024-03-20,Kutaisi,Americano,4,3.0,12.0
+2024-03-20,Kutaisi,Mocha,14,2.5,35.0
+2024-03-20,Kutaisi,Cold Brew,7,3.0,21.0
+2024-03-20,Rustavi,Espresso,13,3.0,39.0
+2024-03-20,Rustavi,Latte,11,2.5,27.5
+2024-03-20,Rustavi,Cappuccino,2,3.0,6.0
+2024-03-20,Rustavi,Americano,14,3.0,42.0
+2024-03-20,Rustavi,Mocha,3,2.5,7.5
+2024-03-20,Rustavi,Cold Brew,14,3.0,42.0
+2024-03-21,Tbilisi,Espresso,9,3.0,27.0
+2024-03-21,Tbilisi,Latte,9,4.0,36.0
+2024-03-21,Tbilisi,Cappuccino,11,2.5,27.5
+2024-03-21,Tbilisi,Americano,8,3.5,28.0
+2024-03-21,Tbilisi,Mocha,9,3.5,31.5
+2024-03-21,Tbilisi,Cold Brew,11,2.5,27.5
+2024-03-21,Batumi,Espresso,8,3.5,28.0
+2024-03-21,Batumi,Latte,10,2.5,25.0
+2024-03-21,Batumi,Cappuccino,13,3.5,45.5
+2024-03-21,Batumi,Americano,15,2.5,37.5
+2024-03-21,Batumi,Mocha,10,2.5,25.0
+2024-03-21,Batumi,Cold Brew,8,2.5,20.0
+2024-03-21,Kutaisi,Espresso,11,3.5,38.5
+2024-03-21,Kutaisi,Latte,5,4.0,20.0
+2024-03-21,Kutaisi,Cappuccino,18,3.5,63.0
+2024-03-21,Kutaisi,Americano,11,2.5,27.5
+2024-03-21,Kutaisi,Mocha,11,2.5,27.5
+2024-03-21,Kutaisi,Cold Brew,11,4.0,44.0
+2024-03-21,Rustavi,Espresso,9,2.5,22.5
+2024-03-21,Rustavi,Latte,11,3.0,33.0
+2024-03-21,Rustavi,Cappuccino,8,2.5,20.0
+2024-03-21,Rustavi,Americano,12,3.5,42.0
+2024-03-21,Rustavi,Mocha,7,3.0,21.0
+2024-03-21,Rustavi,Cold Brew,10,3.0,30.0
+2024-03-22,Tbilisi,Espresso,11,3.5,38.5
+2024-03-22,Tbilisi,Latte,8,3.0,24.0
+2024-03-22,Tbilisi,Cappuccino,7,4.0,28.0
+2024-03-22,Tbilisi,Americano,7,3.5,24.5
+2024-03-22,Tbilisi,Mocha,9,3.0,27.0
+2024-03-22,Tbilisi,Cold Brew,9,3.5,31.5
+2024-03-22,Batumi,Espresso,14,3.0,42.0
+2024-03-22,Batumi,Latte,9,4.0,36.0
+2024-03-22,Batumi,Cappuccino,12,3.5,42.0
+2024-03-22,Batumi,Americano,16,2.5,40.0
+2024-03-22,Batumi,Mocha,8,4.0,32.0
+2024-03-22,Batumi,Cold Brew,7,2.5,17.5
+2024-03-22,Kutaisi,Espresso,12,4.0,48.0
+2024-03-22,Kutaisi,Latte,9,2.5,22.5
+2024-03-22,Kutaisi,Cappuccino,11,3.5,38.5
+2024-03-22,Kutaisi,Americano,13,4.0,52.0
+2024-03-22,Kutaisi,Mocha,14,2.5,35.0
+2024-03-22,Kutaisi,Cold Brew,17,4.0,68.0
+2024-03-22,Rustavi,Espresso,8,2.5,20.0
+2024-03-22,Rustavi,Latte,9,3.5,31.5
+2024-03-22,Rustavi,Cappuccino,9,3.0,27.0
+2024-03-22,Rustavi,Americano,7,3.5,24.5
+2024-03-22,Rustavi,Mocha,8,2.5,20.0
+2024-03-22,Rustavi,Cold Brew,6,3.0,18.0
+2024-03-23,Tbilisi,Espresso,9,4.0,36.0
+2024-03-23,Tbilisi,Latte,6,3.5,21.0
+2024-03-23,Tbilisi,Cappuccino,12,3.5,42.0
+2024-03-23,Tbilisi,Americano,12,3.5,42.0
+2024-03-23,Tbilisi,Mocha,10,2.5,25.0
+2024-03-23,Tbilisi,Cold Brew,12,2.5,30.0
+2024-03-23,Batumi,Espresso,12,4.0,48.0
+2024-03-23,Batumi,Latte,10,3.5,35.0
+2024-03-23,Batumi,Cappuccino,12,3.5,42.0
+2024-03-23,Batumi,Americano,14,2.5,35.0
+2024-03-23,Batumi,Mocha,4,2.5,10.0
+2024-03-23,Batumi,Cold Brew,9,3.5,31.5
+2024-03-23,Kutaisi,Espresso,7,4.0,28.0
+2024-03-23,Kutaisi,Latte,10,3.5,35.0
+2024-03-23,Kutaisi,Cappuccino,8,4.0,32.0
+2024-03-23,Kutaisi,Americano,14,4.0,56.0
+2024-03-23,Kutaisi,Mocha,7,3.0,21.0
+2024-03-23,Kutaisi,Cold Brew,8,3.5,28.0
+2024-03-23,Rustavi,Espresso,10,3.0,30.0
+2024-03-23,Rustavi,Latte,6,3.0,18.0
+2024-03-23,Rustavi,Cappuccino,16,4.0,64.0
+2024-03-23,Rustavi,Americano,10,3.5,35.0
+2024-03-23,Rustavi,Mocha,5,2.5,12.5
+2024-03-23,Rustavi,Cold Brew,8,4.0,32.0
+2024-03-24,Tbilisi,Espresso,2,4.0,8.0
+2024-03-24,Tbilisi,Latte,13,3.0,39.0
+2024-03-24,Tbilisi,Cappuccino,10,3.0,30.0
+2024-03-24,Tbilisi,Americano,9,3.5,31.5
+2024-03-24,Tbilisi,Mocha,13,3.0,39.0
+2024-03-24,Tbilisi,Cold Brew,9,4.0,36.0
+2024-03-24,Batumi,Espresso,10,3.5,35.0
+2024-03-24,Batumi,Latte,8,4.0,32.0
+2024-03-24,Batumi,Cappuccino,10,4.0,40.0
+2024-03-24,Batumi,Americano,6,4.0,24.0
+2024-03-24,Batumi,Mocha,8,3.5,28.0
+2024-03-24,Batumi,Cold Brew,5,3.5,17.5
+2024-03-24,Kutaisi,Espresso,9,3.0,27.0
+2024-03-24,Kutaisi,Latte,7,3.5,24.5
+2024-03-24,Kutaisi,Cappuccino,5,2.5,12.5
+2024-03-24,Kutaisi,Americano,8,3.5,28.0
+2024-03-24,Kutaisi,Mocha,15,3.5,52.5
+2024-03-24,Kutaisi,Cold Brew,5,3.0,15.0
+2024-03-24,Rustavi,Espresso,18,3.5,63.0
+2024-03-24,Rustavi,Latte,9,3.5,31.5
+2024-03-24,Rustavi,Cappuccino,8,3.5,28.0
+2024-03-24,Rustavi,Americano,10,3.5,35.0
+2024-03-24,Rustavi,Mocha,14,3.0,42.0
+2024-03-24,Rustavi,Cold Brew,11,4.0,44.0
+2024-03-25,Tbilisi,Espresso,10,2.5,25.0
+2024-03-25,Tbilisi,Latte,11,4.0,44.0
+2024-03-25,Tbilisi,Cappuccino,13,2.5,32.5
+2024-03-25,Tbilisi,Americano,9,3.5,31.5
+2024-03-25,Tbilisi,Mocha,9,3.0,27.0
+2024-03-25,Tbilisi,Cold Brew,10,3.5,35.0
+2024-03-25,Batumi,Espresso,11,3.5,38.5
+2024-03-25,Batumi,Latte,13,4.0,52.0
+2024-03-25,Batumi,Cappuccino,7,4.0,28.0
+2024-03-25,Batumi,Americano,7,3.0,21.0
+2024-03-25,Batumi,Mocha,11,4.0,44.0
+2024-03-25,Batumi,Cold Brew,6,3.5,21.0
+2024-03-25,Kutaisi,Espresso,14,3.0,42.0
+2024-03-25,Kutaisi,Latte,12,2.5,30.0
+2024-03-25,Kutaisi,Cappuccino,5,2.5,12.5
+2024-03-25,Kutaisi,Americano,9,4.0,36.0
+2024-03-25,Kutaisi,Mocha,18,2.5,45.0
+2024-03-25,Kutaisi,Cold Brew,8,2.5,20.0
+2024-03-25,Rustavi,Espresso,12,3.5,42.0
+2024-03-25,Rustavi,Latte,12,3.5,42.0
+2024-03-25,Rustavi,Cappuccino,3,3.0,9.0
+2024-03-25,Rustavi,Americano,8,3.0,24.0
+2024-03-25,Rustavi,Mocha,10,3.0,30.0
+2024-03-25,Rustavi,Cold Brew,7,3.0,21.0
+2024-03-26,Tbilisi,Espresso,9,3.0,27.0
+2024-03-26,Tbilisi,Latte,12,3.0,36.0
+2024-03-26,Tbilisi,Cappuccino,11,3.0,33.0
+2024-03-26,Tbilisi,Americano,12,3.5,42.0
+2024-03-26,Tbilisi,Mocha,11,2.5,27.5
+2024-03-26,Tbilisi,Cold Brew,7,3.5,24.5
+2024-03-26,Batumi,Espresso,10,4.0,40.0
+2024-03-26,Batumi,Latte,4,3.0,12.0
+2024-03-26,Batumi,Cappuccino,8,2.5,20.0
+2024-03-26,Batumi,Americano,10,3.0,30.0
+2024-03-26,Batumi,Mocha,8,3.0,24.0
+2024-03-26,Batumi,Cold Brew,7,3.5,24.5
+2024-03-26,Kutaisi,Espresso,12,3.0,36.0
+2024-03-26,Kutaisi,Latte,9,3.5,31.5
+2024-03-26,Kutaisi,Cappuccino,13,4.0,52.0
+2024-03-26,Kutaisi,Americano,4,2.5,10.0
+2024-03-26,Kutaisi,Mocha,8,2.5,20.0
+2024-03-26,Kutaisi,Cold Brew,14,4.0,56.0
+2024-03-26,Rustavi,Espresso,12,4.0,48.0
+2024-03-26,Rustavi,Latte,4,3.5,14.0
+2024-03-26,Rustavi,Cappuccino,8,3.5,28.0
+2024-03-26,Rustavi,Americano,13,2.5,32.5
+2024-03-26,Rustavi,Mocha,13,4.0,52.0
+2024-03-26,Rustavi,Cold Brew,9,4.0,36.0
+2024-03-27,Tbilisi,Espresso,7,3.5,24.5
+2024-03-27,Tbilisi,Latte,11,2.5,27.5
+2024-03-27,Tbilisi,Cappuccino,10,4.0,40.0
+2024-03-27,Tbilisi,Americano,11,2.5,27.5
+2024-03-27,Tbilisi,Mocha,10,3.5,35.0
+2024-03-27,Tbilisi,Cold Brew,7,3.5,24.5
+2024-03-27,Batumi,Espresso,8,3.0,24.0
+2024-03-27,Batumi,Latte,10,3.5,35.0
+2024-03-27,Batumi,Cappuccino,7,3.0,21.0
+2024-03-27,Batumi,Americano,14,4.0,56.0
+2024-03-27,Batumi,Mocha,14,2.5,35.0
+2024-03-27,Batumi,Cold Brew,11,4.0,44.0
+2024-03-27,Kutaisi,Espresso,10,3.5,35.0
+2024-03-27,Kutaisi,Latte,11,4.0,44.0
+2024-03-27,Kutaisi,Cappuccino,9,4.0,36.0
+2024-03-27,Kutaisi,Americano,10,4.0,40.0
+2024-03-27,Kutaisi,Mocha,6,2.5,15.0
+2024-03-27,Kutaisi,Cold Brew,10,3.5,35.0
+2024-03-27,Rustavi,Espresso,5,3.0,15.0
+2024-03-27,Rustavi,Latte,11,2.5,27.5
+2024-03-27,Rustavi,Cappuccino,5,4.0,20.0
+2024-03-27,Rustavi,Americano,7,4.0,28.0
+2024-03-27,Rustavi,Mocha,7,2.5,17.5
+2024-03-27,Rustavi,Cold Brew,16,4.0,64.0
+2024-03-28,Tbilisi,Espresso,8,4.0,32.0
+2024-03-28,Tbilisi,Latte,8,3.5,28.0
+2024-03-28,Tbilisi,Cappuccino,16,3.5,56.0
+2024-03-28,Tbilisi,Americano,12,2.5,30.0
+2024-03-28,Tbilisi,Mocha,21,3.5,73.5
+2024-03-28,Tbilisi,Cold Brew,13,3.0,39.0
+2024-03-28,Batumi,Espresso,11,4.0,44.0
+2024-03-28,Batumi,Latte,15,2.5,37.5
+2024-03-28,Batumi,Cappuccino,13,4.0,52.0
+2024-03-28,Batumi,Americano,10,2.5,25.0
+2024-03-28,Batumi,Mocha,9,4.0,36.0
+2024-03-28,Batumi,Cold Brew,16,3.0,48.0
+2024-03-28,Kutaisi,Espresso,8,2.5,20.0
+2024-03-28,Kutaisi,Latte,9,4.0,36.0
+2024-03-28,Kutaisi,Cappuccino,9,2.5,22.5
+2024-03-28,Kutaisi,Americano,12,2.5,30.0
+2024-03-28,Kutaisi,Mocha,8,4.0,32.0
+2024-03-28,Kutaisi,Cold Brew,6,2.5,15.0
+2024-03-28,Rustavi,Espresso,9,2.5,22.5
+2024-03-28,Rustavi,Latte,13,3.0,39.0
+2024-03-28,Rustavi,Cappuccino,9,3.5,31.5
+2024-03-28,Rustavi,Americano,14,3.5,49.0
+2024-03-28,Rustavi,Mocha,10,3.0,30.0
+2024-03-28,Rustavi,Cold Brew,13,4.0,52.0
+2024-03-29,Tbilisi,Espresso,9,4.0,36.0
+2024-03-29,Tbilisi,Latte,10,2.5,25.0
+2024-03-29,Tbilisi,Cappuccino,13,4.0,52.0
+2024-03-29,Tbilisi,Americano,7,4.0,28.0
+2024-03-29,Tbilisi,Mocha,7,2.5,17.5
+2024-03-29,Tbilisi,Cold Brew,11,3.0,33.0
+2024-03-29,Batumi,Espresso,11,3.5,38.5
+2024-03-29,Batumi,Latte,8,4.0,32.0
+2024-03-29,Batumi,Cappuccino,11,3.5,38.5
+2024-03-29,Batumi,Americano,11,3.0,33.0
+2024-03-29,Batumi,Mocha,12,4.0,48.0
+2024-03-29,Batumi,Cold Brew,7,2.5,17.5
+2024-03-29,Kutaisi,Espresso,6,3.0,18.0
+2024-03-29,Kutaisi,Latte,18,2.5,45.0
+2024-03-29,Kutaisi,Cappuccino,7,2.5,17.5
+2024-03-29,Kutaisi,Americano,13,4.0,52.0
+2024-03-29,Kutaisi,Mocha,11,4.0,44.0
+2024-03-29,Kutaisi,Cold Brew,14,3.0,42.0
+2024-03-29,Rustavi,Espresso,11,3.0,33.0
+2024-03-29,Rustavi,Latte,18,4.0,72.0
+2024-03-29,Rustavi,Cappuccino,11,4.0,44.0
+2024-03-29,Rustavi,Americano,12,3.0,36.0
+2024-03-29,Rustavi,Mocha,7,3.5,24.5
+2024-03-29,Rustavi,Cold Brew,15,2.5,37.5
+2024-03-30,Tbilisi,Espresso,6,2.5,15.0
+2024-03-30,Tbilisi,Latte,6,3.5,21.0
+2024-03-30,Tbilisi,Cappuccino,7,3.5,24.5
+2024-03-30,Tbilisi,Americano,12,4.0,48.0
+2024-03-30,Tbilisi,Mocha,13,3.0,39.0
+2024-03-30,Tbilisi,Cold Brew,9,4.0,36.0
+2024-03-30,Batumi,Espresso,8,3.0,24.0
+2024-03-30,Batumi,Latte,11,3.5,38.5
+2024-03-30,Batumi,Cappuccino,15,4.0,60.0
+2024-03-30,Batumi,Americano,15,4.0,60.0
+2024-03-30,Batumi,Mocha,12,3.0,36.0
+2024-03-30,Batumi,Cold Brew,7,3.0,21.0
+2024-03-30,Kutaisi,Espresso,5,4.0,20.0
+2024-03-30,Kutaisi,Latte,5,3.5,17.5
+2024-03-30,Kutaisi,Cappuccino,13,3.5,45.5
+2024-03-30,Kutaisi,Americano,6,3.5,21.0
+2024-03-30,Kutaisi,Mocha,7,4.0,28.0
+2024-03-30,Kutaisi,Cold Brew,13,3.0,39.0
+2024-03-30,Rustavi,Espresso,11,3.5,38.5
+2024-03-30,Rustavi,Latte,12,4.0,48.0
+2024-03-30,Rustavi,Cappuccino,11,3.0,33.0
+2024-03-30,Rustavi,Americano,15,3.5,52.5
+2024-03-30,Rustavi,Mocha,6,4.0,24.0
+2024-03-30,Rustavi,Cold Brew,15,3.0,45.0
+2024-03-31,Tbilisi,Espresso,11,4.0,44.0
+2024-03-31,Tbilisi,Latte,9,3.5,31.5
+2024-03-31,Tbilisi,Cappuccino,16,3.5,56.0
+2024-03-31,Tbilisi,Americano,14,4.0,56.0
+2024-03-31,Tbilisi,Mocha,7,4.0,28.0
+2024-03-31,Tbilisi,Cold Brew,8,4.0,32.0
+2024-03-31,Batumi,Espresso,11,2.5,27.5
+2024-03-31,Batumi,Latte,7,3.0,21.0
+2024-03-31,Batumi,Cappuccino,11,3.5,38.5
+2024-03-31,Batumi,Americano,13,3.0,39.0
+2024-03-31,Batumi,Mocha,11,4.0,44.0
+2024-03-31,Batumi,Cold Brew,11,4.0,44.0
+2024-03-31,Kutaisi,Espresso,8,3.0,24.0
+2024-03-31,Kutaisi,Latte,8,2.5,20.0
+2024-03-31,Kutaisi,Cappuccino,10,3.0,30.0
+2024-03-31,Kutaisi,Americano,18,2.5,45.0
+2024-03-31,Kutaisi,Mocha,8,4.0,32.0
+2024-03-31,Kutaisi,Cold Brew,8,3.0,24.0
+2024-03-31,Rustavi,Espresso,9,4.0,36.0
+2024-03-31,Rustavi,Latte,11,2.5,27.5
+2024-03-31,Rustavi,Cappuccino,13,4.0,52.0
+2024-03-31,Rustavi,Americano,4,3.0,12.0
+2024-03-31,Rustavi,Mocha,6,4.0,24.0
+2024-03-31,Rustavi,Cold Brew,16,3.5,56.0
